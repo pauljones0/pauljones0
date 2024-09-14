@@ -58,9 +58,11 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pauljones0&show_icons=true&locale=en&layout=compact&theme=prussian&border_radius=15&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauljones0&theme=prussian&border_radius=15&hide_border=true)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauljones0&theme=prussian&border_radius=15&hide_border=true)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
+  <img height=200 style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauljones0&show_icons=true&locale=en&layout=compact&theme=prussian&border_radius=15&hide_border=true" alt="pauljones0" />
+  <img height=200 style="object-fit: contain;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauljones0&theme=prussian&border_radius=15&hide_border=true" alt="pauljones0" />
+  <img height=200 style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/wakatime?username=pauljones0&theme=prussian&border_radius=15&hide_border=true" alt="pauljones0" />
+</div>
 
 ---
 
