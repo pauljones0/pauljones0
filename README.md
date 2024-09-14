@@ -32,3 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauljones0&" alt="pauljones0" /></p>
 
+<h3 align="center">Daily XKCD Comic</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pauljones0/XKCD/main/XKCD_daily.png" alt="Daily XKCD Comic" />
+</p>
+
