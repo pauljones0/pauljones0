@@ -68,4 +68,4 @@
 
 ### Daily XKCD Comic
 
-![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/XKCD/main/XKCD_daily.png)
+![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
