@@ -18,17 +18,23 @@ jobs:
         INFO=$(curl -s https://xkcd.com/info.0.json)
         IMAGE_URL=$(echo $INFO | jq -r '.img')
         COMIC_NUM=$(echo $INFO | jq -r '.num')
+        ALT_TEXT=$(echo $INFO | jq -r '.alt')
         echo "IMAGE_URL=$IMAGE_URL" >> $GITHUB_OUTPUT
         echo "COMIC_NUM=$COMIC_NUM" >> $GITHUB_OUTPUT
+        echo "ALT_TEXT=$ALT_TEXT" >> $GITHUB_OUTPUT
 
     - name: Download comic
       run: |
         mkdir -p .github/xkcd
         wget -O .github/xkcd/XKCD_daily.png ${{ steps.fetch-info.outputs.IMAGE_URL }}
 
+    - name: Save alt text
+      run: |
+        echo "${{ steps.fetch-info.outputs.ALT_TEXT }}" > .github/xkcd/XKCD_daily_alt.txt
+
     - name: Commit and push if changed
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .github/xkcd/XKCD_daily.png
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update XKCD comic to #${{ steps.fetch-info.outputs.COMIC_NUM }}" && git push)
+        git add .github/xkcd/XKCD_daily.png .github/xkcd/XKCD_daily_alt.txt
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update XKCD comic #${{ steps.fetch-info.outputs.COMIC_NUM }} and alt text" && git push)

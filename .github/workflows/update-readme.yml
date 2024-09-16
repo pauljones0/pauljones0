@@ -1,0 +1,33 @@
+name: Update README with XKCD Alt Text
+
+on:
+  workflow_run:
+    workflows: ["Fetch Daily XKCD Comic"]
+    types:
+      - completed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v4
+
+    - name: Read XKCD alt text
+      id: xkcd-alt
+      run: |
+        ALT_TEXT=$(cat .github/xkcd/XKCD_daily_alt.txt)
+        echo "ALT_TEXT<<EOF" >> $GITHUB_OUTPUT
+        echo "$ALT_TEXT" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+
+    - name: Update README
+      run: |
+        sed -i '/<!-- XKCD_ALT_TEXT -->/c\    ${{ steps.xkcd-alt.outputs.ALT_TEXT }}' README.md
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with latest XKCD alt text" && git push)
