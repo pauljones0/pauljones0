@@ -72,6 +72,6 @@
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">
   <em>
-  <!-- XKCD_ALT_TEXT -->
+    Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps.
   </em>
 </p>
