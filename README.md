@@ -70,8 +70,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-<p align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">
-  <em>
-  <!-- XKCD_ALT_TEXT -->
-  </em>
-</p>
+*<!-- XKCD_ALT_TEXT_START --><!-- XKCD_ALT_TEXT_END -->*

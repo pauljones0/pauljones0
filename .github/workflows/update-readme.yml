@@ -23,7 +23,7 @@ jobs:
 
     - name: Update README
       run: |
-        sed -i '/<!-- XKCD_ALT_TEXT -->/c\    ${{ steps.xkcd-alt.outputs.ALT_TEXT }}' README.md
+        sed -i '/<!-- XKCD_ALT_TEXT_START -->/,/<!-- XKCD_ALT_TEXT_END -->/c\<!-- XKCD_ALT_TEXT_START -->${{ steps.xkcd-alt.outputs.ALT_TEXT }}<!-- XKCD_ALT_TEXT_END -->' README.md
 
     - name: Commit and push if changed
       run: |
