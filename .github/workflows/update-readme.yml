@@ -19,38 +19,49 @@ jobs:
       run: |
         echo "Reading XKCD alt text..."
         ALT_TEXT=$(cat .github/xkcd/XKCD_daily_alt.txt)
-        echo "ALT_TEXT is:"
+        echo "ALT_TEXT from file is:"
         echo "$ALT_TEXT"
-        echo "Saving ALT_TEXT to GitHub output..."
-        # Use printf to escape any special characters
-        printf "ALT_TEXT<<EOF\n%s\nEOF\n" "$ALT_TEXT" >> $GITHUB_OUTPUT
+        echo "ALT_TEXT<<EOF" >> $GITHUB_OUTPUT
+        echo "$ALT_TEXT" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+        echo "GITHUB_OUTPUT after setting ALT_TEXT:"
+        cat $GITHUB_OUTPUT
 
     - name: Update README
       run: |
         echo "Updating README.md with the latest XKCD alt text..."
-        # Escape special characters in ALT_TEXT for sed
-        ESCAPED_ALT_TEXT=$(printf '%s\n' "${{ steps.xkcd-alt.outputs.ALT_TEXT }}" | sed -e 's/[\/&]/\\&/g' | sed -e ":a;N;\$!ba;s/\n/\\n/g")
-        # Replace the placeholder in README.md
-        sed -i "/<!-- XKCD_ALT_TEXT_START -->/,/<!-- XKCD_ALT_TEXT_END -->/c\\<!-- XKCD_ALT_TEXT_START -->${ESCAPED_ALT_TEXT}<!-- XKCD_ALT_TEXT_END -->" README.md
-        echo "README.md has been updated."
+        ALT_TEXT="${{ steps.xkcd-alt.outputs.ALT_TEXT }}"
+        echo "ALT_TEXT is: $ALT_TEXT"
+        
+        # Use perl for more reliable text replacement
+        perl -i -pe '
+          BEGIN { $alt_text = $ENV{ALT_TEXT}; }
+          s/(\*<!-- XKCD_ALT_TEXT_START -->).*?(<!-- XKCD_ALT_TEXT_END -->\*)/defined $alt_text ? "$1$alt_text$2" : $&/e;
+        ' README.md
+        
+        echo "Content of README.md after update:"
+        cat README.md
+      env:
+        ALT_TEXT: ${{ steps.xkcd-alt.outputs.ALT_TEXT }}
+
+    - name: Check for changes
+      id: git-check
+      run: |
+        git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
 
     - name: Commit and push if changed
+      if: steps.git-check.outputs.changes == 'true'
       run: |
-        echo "Configuring git..."
+        echo "Changes detected. Committing and pushing..."
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        echo "Checking for changes..."
-        git status
         git add README.md
-        git status
-        if git diff --staged --quiet; then
-          echo "No changes detected. Skip committing."
-        else
-          echo "Changes detected. Committing and pushing changes..."
-          git commit -m "Update README with latest XKCD alt text"
-          git push || (echo "Push failed. Fetching latest changes..." && git fetch && git rebase origin/main && git push)
-        fi
-      continue-on-error: true
+        git commit -m "Update README with latest XKCD alt text"
+        git push
+      
+    - name: No changes
+      if: steps.git-check.outputs.changes != 'true'
+      run: echo "No changes to README.md. Skipping commit."
 
     - name: Check for errors
       if: failure()
