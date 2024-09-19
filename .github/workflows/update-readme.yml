@@ -5,6 +5,7 @@ on:
     workflows: ["Fetch Daily XKCD Comic"]
     types:
       - completed
+  workflow_dispatch:  # This enables manual triggering
 
 jobs:
   update-readme:
@@ -16,18 +17,33 @@ jobs:
     - name: Read XKCD alt text
       id: xkcd-alt
       run: |
+        echo "Reading XKCD alt text..."
         ALT_TEXT=$(cat .github/xkcd/XKCD_daily_alt.txt)
+        echo "ALT_TEXT is:"
+        echo "$ALT_TEXT"
+        echo "Saving ALT_TEXT to GitHub output..."
         echo "ALT_TEXT<<EOF" >> $GITHUB_OUTPUT
         echo "$ALT_TEXT" >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT
 
     - name: Update README
       run: |
+        echo "Updating README.md with the latest XKCD alt text..."
         sed -i '/<!-- XKCD_ALT_TEXT_START -->/,/<!-- XKCD_ALT_TEXT_END -->/c\<!-- XKCD_ALT_TEXT_START -->${{ steps.xkcd-alt.outputs.ALT_TEXT }}<!-- XKCD_ALT_TEXT_END -->' README.md
+        echo "README.md has been updated."
 
     - name: Commit and push if changed
       run: |
+        echo "Configuring git..."
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        echo "Checking for changes..."
         git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with latest XKCD alt text" && git push)
+        git diff --quiet && git diff --staged --quiet
+        if [ $? -eq 0 ]; then
+          echo "No changes detected. Skip committing."
+        else
+          echo "Changes detected. Committing and pushing changes..."
+          git commit -m "Update README with latest XKCD alt text"
+          git push
+        fi
