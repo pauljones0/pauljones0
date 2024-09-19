@@ -8,6 +8,8 @@ on:
 jobs:
   fetch-and-save:
     runs-on: ubuntu-latest
+    outputs:
+      alt_text: ${{ steps.fetch-info.outputs.ALT_TEXT }}
     steps:
     - name: Check out repository
       uses: actions/checkout@v4
@@ -21,20 +23,24 @@ jobs:
         ALT_TEXT=$(echo $INFO | jq -r '.alt')
         echo "IMAGE_URL=$IMAGE_URL" >> $GITHUB_OUTPUT
         echo "COMIC_NUM=$COMIC_NUM" >> $GITHUB_OUTPUT
-        echo "ALT_TEXT=$ALT_TEXT" >> $GITHUB_OUTPUT
+        echo "ALT_TEXT<<EOF" >> $GITHUB_OUTPUT
+        echo "$ALT_TEXT" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
 
     - name: Download comic
       run: |
         mkdir -p .github/xkcd
         wget -O .github/xkcd/XKCD_daily.png ${{ steps.fetch-info.outputs.IMAGE_URL }}
 
-    - name: Save alt text
-      run: |
-        echo "${{ steps.fetch-info.outputs.ALT_TEXT }}" > .github/xkcd/XKCD_daily_alt.txt
-
     - name: Commit and push if changed
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .github/xkcd/XKCD_daily.png .github/xkcd/XKCD_daily_alt.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update XKCD comic #${{ steps.fetch-info.outputs.COMIC_NUM }} and alt text" && git push)
+        git add .github/xkcd/XKCD_daily.png
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update XKCD comic #${{ steps.fetch-info.outputs.COMIC_NUM }}" && git push)
+
+  update-readme:
+    needs: fetch-and-save
+    uses: ./.github/workflows/update-readme.yml
+    with:
+      alt_text: ${{ needs.fetch-and-save.outputs.alt_text }}

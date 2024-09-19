@@ -1,11 +1,11 @@
 name: Update README with XKCD Alt Text
 
 on:
-  workflow_run:
-    workflows: ["Fetch Daily XKCD Comic"]
-    types:
-      - completed
-  workflow_dispatch:  # This enables manual triggering
+  workflow_call:
+    inputs:
+      alt_text:
+        required: true
+        type: string
 
 jobs:
   update-readme:
@@ -14,23 +14,10 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v4
 
-    - name: Read XKCD alt text
-      id: xkcd-alt
-      run: |
-        echo "Reading XKCD alt text..."
-        ALT_TEXT=$(cat .github/xkcd/XKCD_daily_alt.txt)
-        echo "ALT_TEXT from file is:"
-        echo "$ALT_TEXT"
-        echo "ALT_TEXT<<EOF" >> $GITHUB_OUTPUT
-        echo "$ALT_TEXT" >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
-        echo "GITHUB_OUTPUT after setting ALT_TEXT:"
-        cat $GITHUB_OUTPUT
-
     - name: Update README
       run: |
         echo "Updating README.md with the latest XKCD alt text..."
-        ALT_TEXT="${{ steps.xkcd-alt.outputs.ALT_TEXT }}"
+        ALT_TEXT="${{ inputs.alt_text }}"
         echo "ALT_TEXT is: $ALT_TEXT"
         
         # Use perl for more reliable text replacement
@@ -42,7 +29,7 @@ jobs:
         echo "Content of README.md after update:"
         cat README.md
       env:
-        ALT_TEXT: ${{ steps.xkcd-alt.outputs.ALT_TEXT }}
+        ALT_TEXT: ${{ inputs.alt_text }}
 
     - name: Check for changes
       id: git-check
