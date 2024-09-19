@@ -40,12 +40,22 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         echo "Checking for changes..."
+        git status
         git add README.md
-        git diff --quiet && git diff --staged --quiet
-        if [ $? -eq 0 ]; then
+        git status
+        if git diff --staged --quiet; then
           echo "No changes detected. Skip committing."
         else
           echo "Changes detected. Committing and pushing changes..."
           git commit -m "Update README with latest XKCD alt text"
-          git push
+          git push || (echo "Push failed. Fetching latest changes..." && git fetch && git rebase origin/main && git push)
         fi
+      continue-on-error: true
+
+    - name: Check for errors
+      if: failure()
+      run: |
+        echo "Error occurred. Printing git status and last few commits..."
+        git status
+        git log -n 5
+        exit 1
