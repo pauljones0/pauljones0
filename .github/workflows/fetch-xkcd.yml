@@ -37,6 +37,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .github/xkcd/XKCD_daily.png
+        git pull --rebase origin main
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update XKCD comic #${{ steps.fetch-info.outputs.COMIC_NUM }}" && git push)
 
   update-readme:
