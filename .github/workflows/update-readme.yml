@@ -42,8 +42,8 @@ jobs:
         echo "Changes detected. Committing and pushing..."
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md
         git pull --rebase origin main
+        git add README.md
         git commit -m "Update README with latest XKCD alt text"
         git push
       
