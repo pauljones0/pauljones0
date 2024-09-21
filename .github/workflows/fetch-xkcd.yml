@@ -2,60 +2,89 @@ name: Fetch and Update README with XKCD
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Run daily at 5:00 AM UTC
-  workflow_dispatch:    # Allow manual triggering
+    - cron: '0 5 * * *'  # Runs daily at 5:00 AM UTC to ensure the README is updated with the latest XKCD comic
+  workflow_dispatch:    # Allows manual triggering of the workflow for on-demand updates
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Uses the latest Ubuntu runner for compatibility and security
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Fetches the entire history to ensure all commits are available for accurate diffs and pushes
+
       - name: Set up Git
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config user.name "GitHub Action"  # Sets the Git username for commit attribution
+          git config user.email "action@github.com"  # Sets the Git email for commit attribution
 
       - name: Fetch Daily XKCD Comic
         id: fetch-xkcd
         run: |
+          # Fetches the latest XKCD comic number from the XKCD API
           COMIC_NUM=$(curl -s https://xkcd.com/info.0.json | jq -r '.num')
+          
+          # Retrieves the alt text for the fetched comic number
           ALT_TEXT=$(curl -s https://xkcd.com/${COMIC_NUM}/info.0.json | jq -r '.alt')
+          
+          # Retrieves the image URL for the fetched comic number
           IMAGE_URL=$(curl -s https://xkcd.com/${COMIC_NUM}/info.0.json | jq -r '.img')
+          
+          # Creates the directory to store the comic image if it doesn't exist
           mkdir -p .github/xkcd
+          
+          # Downloads the XKCD comic image and saves it to the specified directory
           curl -s $IMAGE_URL -o .github/xkcd/XKCD_daily.png
+          
+          # Exports the comic number and alt text as environment variables for use in subsequent steps
           echo "COMIC_NUM=${COMIC_NUM}" >> $GITHUB_ENV
           echo "ALT_TEXT=${ALT_TEXT}" >> $GITHUB_ENV
 
       - name: Update README
         run: |
           echo "Updating README.md with the latest XKCD alt text..."
+          
+          # Uses Perl to replace the existing alt text between the specified markers with the new alt text
           perl -i -pe '
             BEGIN { $alt_text = $ENV{ALT_TEXT}; }
             s/(\*<!-- XKCD_ALT_TEXT_START -->).*?(<!-- XKCD_ALT_TEXT_END -->\*)/$1$alt_text$2/;
           ' README.md
+          
+          # Displays the updated README.md content for verification
           echo "Content of README.md after update:"
           cat README.md
 
       - name: Check for changes
         id: git-check
         run: |
+          # Checks if README.md or the XKCD image has changed
           git diff --exit-code README.md .github/xkcd/XKCD_daily.png || echo "changes=true" >> $GITHUB_OUTPUT
+          # If changes are detected, sets the output variable 'changes' to 'true'
 
       - name: Commit and Push if Changed
-        if: steps.git-check.outputs.changes == 'true'
+        if: steps.git-check.outputs.changes == 'true'  # Executes only if changes were detected in the previous step
         run: |
+          # Stages the modified README.md and XKCD image for commit
           git add README.md .github/xkcd/XKCD_daily.png
+          
+          # Commits the changes with a message that includes the XKCD comic number for traceability
           git commit -m "Update README with latest XKCD comic #${COMIC_NUM}"
+          
+          # Pushes the commit to the remote repository
           git push
 
       - name: Check for Errors
-        if: failure()
+        if: failure()  # Executes only if any of the previous steps have failed
         run: |
           echo "Error occurred. Printing git status and last few commits..."
+          
+          # Outputs the current Git status to help diagnose the issue
           git status
+          
+          # Shows the last five commits for additional context
           git log -n 5
+          
+          # Exits with a non-zero status to mark the workflow as failed
           exit 1
