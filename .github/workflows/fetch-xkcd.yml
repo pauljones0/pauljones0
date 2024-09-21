@@ -1,47 +1,61 @@
-name: Fetch Daily XKCD Comic
+name: Fetch and Update README with XKCD
 
 on:
   schedule:
     - cron: '0 5 * * *'  # Run daily at 5:00 AM UTC
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:    # Allow manual triggering
 
 jobs:
-  fetch-and-save:
-    runs-on: ubuntu-latest
-    outputs:
-      alt_text: ${{ steps.fetch-info.outputs.ALT_TEXT }}
-    steps:
-    - name: Check out repository
-      uses: actions/checkout@v4
-
-    - name: Fetch XKCD comic info
-      id: fetch-info
-      run: |
-        INFO=$(curl -s https://xkcd.com/info.0.json)
-        IMAGE_URL=$(echo $INFO | jq -r '.img')
-        COMIC_NUM=$(echo $INFO | jq -r '.num')
-        ALT_TEXT=$(echo $INFO | jq -r '.alt')
-        echo "IMAGE_URL=$IMAGE_URL" >> $GITHUB_OUTPUT
-        echo "COMIC_NUM=$COMIC_NUM" >> $GITHUB_OUTPUT
-        echo "ALT_TEXT<<EOF" >> $GITHUB_OUTPUT
-        echo "$ALT_TEXT" >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
-
-    - name: Download comic
-      run: |
-        mkdir -p .github/xkcd
-        wget -O .github/xkcd/XKCD_daily.png ${{ steps.fetch-info.outputs.IMAGE_URL }}
-
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .github/xkcd/XKCD_daily.png
-        git pull --rebase origin main
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update XKCD comic #${{ steps.fetch-info.outputs.COMIC_NUM }}" && git push)
-
   update-readme:
-    needs: fetch-and-save
-    uses: ./.github/workflows/update-readme.yml
-    with:
-      alt_text: ${{ needs.fetch-and-save.outputs.alt_text }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Fetch Daily XKCD Comic
+        id: fetch-xkcd
+        run: |
+          COMIC_NUM=$(curl -s https://xkcd.com/info.0.json | jq -r '.num')
+          ALT_TEXT=$(curl -s https://xkcd.com/${COMIC_NUM}/info.0.json | jq -r '.alt')
+          IMAGE_URL=$(curl -s https://xkcd.com/${COMIC_NUM}/info.0.json | jq -r '.img')
+          mkdir -p .github/xkcd
+          curl -s $IMAGE_URL -o .github/xkcd/XKCD_daily.png
+          echo "COMIC_NUM=${COMIC_NUM}" >> $GITHUB_ENV
+          echo "ALT_TEXT=${ALT_TEXT}" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          echo "Updating README.md with the latest XKCD alt text..."
+          perl -i -pe '
+            BEGIN { $alt_text = $ENV{ALT_TEXT}; }
+            s/(\*<!-- XKCD_ALT_TEXT_START -->).*?(<!-- XKCD_ALT_TEXT_END -->\*)/$1$alt_text$2/;
+          ' README.md
+          echo "Content of README.md after update:"
+          cat README.md
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code README.md .github/xkcd/XKCD_daily.png || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and Push if Changed
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git add README.md .github/xkcd/XKCD_daily.png
+          git commit -m "Update README with latest XKCD comic #${COMIC_NUM}"
+          git push
+
+      - name: Check for Errors
+        if: failure()
+        run: |
+          echo "Error occurred. Printing git status and last few commits..."
+          git status
+          git log -n 5
+          exit 1
