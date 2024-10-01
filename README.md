@@ -70,4 +70,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.<!-- XKCD_ALT_TEXT_END -->*
