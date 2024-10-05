@@ -70,4 +70,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Add main-belt asteroids to taste.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->I see white shores, and beyond it, a far green country under a tequila sunrise.<!-- XKCD_ALT_TEXT_END -->*
