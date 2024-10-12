@@ -70,4 +70,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->If any of you want to meet some cool local oxygen atoms, I can introduce you!<!-- XKCD_ALT_TEXT_END -->*
