@@ -70,4 +70,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->This projection distorts both area and direction, but preserves Melbourne.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.<!-- XKCD_ALT_TEXT_END -->*
