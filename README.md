@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism.<!-- XKCD_ALT_TEXT_END -->*
