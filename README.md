@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->The number one rule of string manipulation is that youâ€™ve got to specify your encodings.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.<!-- XKCD_ALT_TEXT_END -->*
