@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->"10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->There's a maximum likelihood that I'm doing phylogenetics wrong.<!-- XKCD_ALT_TEXT_END -->*
