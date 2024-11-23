@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.<!-- XKCD_ALT_TEXT_END -->*
