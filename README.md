@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.<!-- XKCD_ALT_TEXT_END -->*
