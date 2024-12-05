@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access<!-- XKCD_ALT_TEXT_END -->*
