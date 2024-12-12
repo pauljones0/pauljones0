@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.<!-- XKCD_ALT_TEXT_END -->*
