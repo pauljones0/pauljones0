@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->The best case is O(n), and the worst case is that someone checks why.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.<!-- XKCD_ALT_TEXT_END -->*
