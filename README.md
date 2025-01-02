@@ -1,10 +1,10 @@
 # Hi 👋, I'm Paul Jones
 
-## A passionate frontend developer with an interest in data
+## A passionate developer with an interest in data
 
 ![Profile views](https://komarev.com/ghpvc/?username=pauljones0&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **Brainstation Capstone Project**
+- 🔭 I'm currently working on **Brainstation Capstone Project (and cleaning up my github**
 - 🌱 I'm currently learning **HTML, CSS, JS, React**
 - 🤝 I'm looking for help with **learning elixir**
 - 💬 Ask me about **lightbulbs**
