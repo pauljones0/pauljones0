@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->You don't want the nitrogen percentage to be too high or you run the risk of eutrophication.<!-- XKCD_ALT_TEXT_END -->*
