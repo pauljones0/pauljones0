@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->A good ²³⁸Umbrella policy should cover it.<!-- XKCD_ALT_TEXT_END -->*
