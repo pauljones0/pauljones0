@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Can you pass the nackle?<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties.<!-- XKCD_ALT_TEXT_END -->*
