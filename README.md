@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Unfortunately, body size and bite force continue to increase.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Update: I've been banned from the physics department for the way I pronounce "Doppler effect."<!-- XKCD_ALT_TEXT_END -->*
