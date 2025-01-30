@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Update: I've been banned from the physics department for the way I pronounce "Doppler effect."<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.<!-- XKCD_ALT_TEXT_END -->*
