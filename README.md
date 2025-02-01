@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.<!-- XKCD_ALT_TEXT_END -->*
