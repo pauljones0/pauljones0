@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it.<!-- XKCD_ALT_TEXT_END -->*
