@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->What's weirder is that muons turned out to be INCREDIBLY cute.<!-- XKCD_ALT_TEXT_END -->*
