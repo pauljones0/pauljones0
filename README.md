@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->What's weirder is that muons turned out to be INCREDIBLY cute.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->They may technically have been softwoods at some point, but they definitely aren't now.<!-- XKCD_ALT_TEXT_END -->*
