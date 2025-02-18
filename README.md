@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->They may technically have been softwoods at some point, but they definitely aren't now.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)<!-- XKCD_ALT_TEXT_END -->*
