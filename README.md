@@ -76,4 +76,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.<!-- XKCD_ALT_TEXT_END -->*
