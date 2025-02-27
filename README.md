@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.<!-- XKCD_ALT_TEXT_END -->*
