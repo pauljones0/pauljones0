@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paul Jones
 
-## A passionate developer with an interest in data
+## I'm nerding out about time series right now
 
 ![Profile views](https://komarev.com/ghpvc/?username=pauljones0&label=Profile%20views&color=0e75b6&style=flat)
 
