@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.<!-- XKCD_ALT_TEXT_END -->*
