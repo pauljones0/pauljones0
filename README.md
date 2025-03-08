@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Your homeowner's insurance might cover it, but be sure to check the subductible.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.<!-- XKCD_ALT_TEXT_END -->*
