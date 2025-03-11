@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Update: The physics department has recruited an astronomer who studies meteor fireballs.<!-- XKCD_ALT_TEXT_END -->*
