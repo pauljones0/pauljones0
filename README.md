@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->Update: The physics department has recruited an astronomer who studies meteor fireballs.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->It does come at the small cost of a LOT more off-by-40-or-50 errors.<!-- XKCD_ALT_TEXT_END -->*
