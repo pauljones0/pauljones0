@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->It does come at the small cost of a LOT more off-by-40-or-50 errors.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.<!-- XKCD_ALT_TEXT_END -->*
