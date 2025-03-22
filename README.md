@@ -37,4 +37,4 @@
 
 ![Daily XKCD Comic](https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png)
 
-*<!-- XKCD_ALT_TEXT_START -->The biggest I've seen in a published source in the wild is an 80-fold error in a reported distance, which I think came from a series of at least three unit conversions and area/length misinterpretations.<!-- XKCD_ALT_TEXT_END -->*
+*<!-- XKCD_ALT_TEXT_START -->This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.<!-- XKCD_ALT_TEXT_END -->*
