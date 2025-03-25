@@ -44,32 +44,26 @@ jobs:
 
       - name: Update README
         run: |
-          echo "Updating README.md with the latest XKCD alt text..."
-          
-          # Uses Perl to replace the existing alt text between the specified markers with the new alt text
-          perl -i -pe '
-            BEGIN { $alt_text = $ENV{ALT_TEXT}; }
-            s/(\*<!-- XKCD_ALT_TEXT_START -->).*?(<!-- XKCD_ALT_TEXT_END -->\*)/$1$alt_text$2/;
-          ' README.md
-          
-          # Displays the updated README.md content for verification
+          echo "Updating README.md with the latest XKCD caption..."
+          # Replace the text between <sub> and </sub> with the new ALT_TEXT value
+          perl -i -pe 'BEGIN { $alt = $ENV{ALT_TEXT}; } s{(<sub>).*?(</sub>)}{$1$alt$2}' README.md
           echo "Content of README.md after update:"
           cat README.md
 
       - name: Check for changes
         id: git-check
         run: |
-          # Checks if README.md or the XKCD image has changed
+          # Checks if the README.md or the XKCD image has changed
           git diff --exit-code README.md .github/xkcd/XKCD_daily.png || echo "changes=true" >> $GITHUB_OUTPUT
           # If changes are detected, sets the output variable 'changes' to 'true'
 
       - name: Commit and Push if Changed
-        if: steps.git-check.outputs.changes == 'true'  # Executes only if changes were detected in the previous step
+        if: steps.git-check.outputs.changes == 'true'
         run: |
           # Stages the modified README.md and XKCD image for commit
           git add README.md .github/xkcd/XKCD_daily.png
           
-          # Commits the changes with a message that includes the XKCD comic number for traceability
+          # Commits the changes with a message including the XKCD comic number
           git commit -m "Update README with latest XKCD comic #${COMIC_NUM}"
           
           # Pushes the commit to the remote repository
