@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.</sub>
+      <sub>'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'</sub>
     </td>
   </tr>
 </table>
