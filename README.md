@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'</sub>
+      <sub>There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</sub>
     </td>
   </tr>
 </table>
