@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</sub>
+      <sub>Most properties can only boast INDOOR heated floors.</sub>
     </td>
   </tr>
 </table>
