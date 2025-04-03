@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Most properties can only boast INDOOR heated floors.</sub>
+      <sub>If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</sub>
     </td>
   </tr>
 </table>
