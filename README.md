@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</sub>
+      <sub>We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.</sub>
     </td>
   </tr>
 </table>
