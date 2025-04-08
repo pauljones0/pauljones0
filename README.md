@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.</sub>
+      <sub>[later] I don't get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</sub>
     </td>
   </tr>
 </table>
