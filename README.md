@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>[later] I don't get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</sub>
+      <sub>NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!</sub>
     </td>
   </tr>
 </table>
