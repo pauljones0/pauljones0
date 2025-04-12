@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!</sub>
+      <sub>I have to pay with paper money.</sub>
     </td>
   </tr>
 </table>
