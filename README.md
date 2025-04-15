@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>I have to pay with paper money.</sub>
+      <sub>When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.</sub>
     </td>
   </tr>
 </table>
