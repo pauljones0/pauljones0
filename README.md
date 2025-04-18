@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.</sub>
+      <sub>Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.</sub>
     </td>
   </tr>
 </table>
