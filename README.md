@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.</sub>
+      <sub>The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</sub>
     </td>
   </tr>
 </table>
