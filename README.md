@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</sub>
+      <sub>'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'</sub>
     </td>
   </tr>
 </table>
