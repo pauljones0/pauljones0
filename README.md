@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'</sub>
+      <sub>After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down.</sub>
     </td>
   </tr>
 </table>
