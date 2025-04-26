@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down.</sub>
+      <sub>Rümeysa Öztürk was grabbed off the street in my town one month ago.</sub>
     </td>
   </tr>
 </table>
