@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Rümeysa Öztürk was grabbed off the street in my town one month ago.</sub>
+      <sub>It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</sub>
     </td>
   </tr>
 </table>
