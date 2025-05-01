@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</sub>
+      <sub>Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</sub>
     </td>
   </tr>
 </table>
