@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</sub>
+      <sub>Unstoppable force-carrying particles can't interact with immovable matter by definition.</sub>
     </td>
   </tr>
 </table>
