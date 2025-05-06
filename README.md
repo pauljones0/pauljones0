@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Unstoppable force-carrying particles can't interact with immovable matter by definition.</sub>
+      <sub>In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.</sub>
     </td>
   </tr>
 </table>
