@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.</sub>
+      <sub>Frankly, given their extreme gravitational fields and general instability, even 12-inch globes should probably be banned.</sub>
     </td>
   </tr>
 </table>
