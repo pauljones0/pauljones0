@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Frankly, given their extreme gravitational fields and general instability, even 12-inch globes should probably be banned.</sub>
+      <sub>Reductio ad absurdum fails when reality is absurd.</sub>
     </td>
   </tr>
 </table>
