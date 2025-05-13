@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Reductio ad absurdum fails when reality is absurd.</sub>
+      <sub>P.S. If you have time travel, come to my birthday party Saturday!</sub>
     </td>
   </tr>
 </table>
