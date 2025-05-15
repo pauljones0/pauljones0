@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>P.S. If you have time travel, come to my birthday party Saturday!</sub>
+      <sub>Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</sub>
     </td>
   </tr>
 </table>
