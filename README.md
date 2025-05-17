@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</sub>
+      <sub>Turning in other directions can be accomplished by using a magnetized centerboard and ocean currents, since a current flowing through a magnetic field induces a Laplace force.</sub>
     </td>
   </tr>
 </table>
