@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Turning in other directions can be accomplished by using a magnetized centerboard and ocean currents, since a current flowing through a magnetic field induces a Laplace force.</sub>
+      <sub>Applying renormalization to bullies successfully transformed Pete & Pete's Endless Mike into Finite Mike.</sub>
     </td>
   </tr>
 </table>
