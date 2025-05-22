@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>Applying renormalization to bullies successfully transformed Pete & Pete's Endless Mike into Finite Mike.</sub>
+      <sub>169 is a baker's gross.</sub>
     </td>
   </tr>
 </table>
