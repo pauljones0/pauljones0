@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center">
-      <sub>169 is a baker's gross.</sub>
+      <sub>A 5% efficiency gain at the cost of a 99% efficiency loss</sub>
     </td>
   </tr>
 </table>
