@@ -1,0 +1,125 @@
+name: Fetch and Update README with Comics
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # Runs daily at 5:00 AM UTC to ensure the README is updated with the latest XKCD comic
+  workflow_dispatch:    # Allows manual triggering of the workflow for on-demand updates
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest  # Uses the latest Ubuntu runner for compatibility and security
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetches the entire history to ensure all commits are available for accurate diffs and pushes
+
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Action"  # Sets the Git username for commit attribution
+          git config user.email "action@github.com"  # Sets the Git email for commit attribution
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Fetch Calvin and Hobbes Comic URL
+        id: fetch-ch
+        run: |
+          echo "Attempting to fetch Calvin and Hobbes comic URL..."
+          # Assumes gocomics.go is in the repository root
+          URL_OUTPUT=$(go run ./scripts/gocomics --comic-name calvinandhobbes --url-only)
+          EXIT_CODE=$?
+          if [ $EXIT_CODE -eq 0 ] && [ -n "$URL_OUTPUT" ]; then
+            echo "CH_URL=${URL_OUTPUT}" >> $GITHUB_ENV
+            echo "Successfully fetched Calvin and Hobbes URL: $URL_OUTPUT"
+            echo "ch_fetch_outcome=success" >> $GITHUB_OUTPUT
+          else
+            echo "::error::Failed to fetch Calvin and Hobbes URL. Go script exit code: $EXIT_CODE, Output: '$URL_OUTPUT'"
+            echo "CH_URL=" >> $GITHUB_ENV # Ensure CH_URL is defined, even if empty
+            echo "ch_fetch_outcome=failure" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
+
+      - name: Fetch Daily XKCD Comic
+        id: fetch-xkcd
+        run: |
+          echo "Attempting to fetch XKCD comic..."
+          # Use -f to make curl fail on server errors (HTTP 4xx or 5xx)
+          JSON_RESPONSE=$(curl -s -f https://xkcd.com/info.0.json)
+          CURL_EXIT_CODE=$?
+          XKCD_IMG_URL="" # Initialize to empty
+          XKCD_ALT_TEXT="" # Initialize to empty
+          XKCD_FETCH_OUTCOME="failure" # Default to failure
+
+          if [ $CURL_EXIT_CODE -eq 0 ] && [ -n "$JSON_RESPONSE" ]; then
+            # Validate JSON and extract fields
+            IMG_URL_TEMP=$(echo "$JSON_RESPONSE" | jq -r '.img')
+            ALT_TEXT_TEMP=$(echo "$JSON_RESPONSE" | jq -r '.alt')
+
+            if [ "$IMG_URL_TEMP" != "null" ] && [ -n "$IMG_URL_TEMP" ] && \
+               [ "$ALT_TEXT_TEMP" != "null" ] && [ -n "$ALT_TEXT_TEMP" ]; then
+              XKCD_IMG_URL="$IMG_URL_TEMP"
+              XKCD_ALT_TEXT="$ALT_TEXT_TEMP"
+              echo "Successfully fetched and parsed XKCD comic."
+              XKCD_FETCH_OUTCOME="success"
+            else
+              echo "::error::Failed to parse XKCD JSON or extract details. Raw JSON: '$JSON_RESPONSE'. Parsed Img: '$IMG_URL_TEMP', Parsed Alt: '$ALT_TEXT_TEMP'"
+            fi
+          else
+            echo "::error::Failed to fetch XKCD JSON from API. Curl exit code: $CURL_EXIT_CODE. Response: '$JSON_RESPONSE'"
+          fi
+          
+          echo "XKCD_IMG_URL=${XKCD_IMG_URL}" >> $GITHUB_ENV
+          echo "XKCD_ALT_TEXT=${XKCD_ALT_TEXT}" >> $GITHUB_ENV
+          echo "xkcd_fetch_outcome=${XKCD_FETCH_OUTCOME}" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update README with Comics
+        env:
+          XKCD_IMG_URL: ${{ env.XKCD_IMG_URL }}
+          XKCD_ALT_TEXT: ${{ env.XKCD_ALT_TEXT }}
+          XKCD_FETCH_OUTCOME: ${{ steps.fetch_xkcd.outputs.xkcd_fetch_outcome }}
+          CH_URL: ${{ env.CH_URL }}
+          CH_FETCH_OUTCOME: ${{ steps.fetch_ch.outputs.ch_fetch_outcome }}
+        run: python scripts/update_readme.py
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          # Checks if the README.md has changed
+          git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
+          # If changes are detected, sets the output variable 'changes' to 'true'
+
+      - name: Commit and Push if Changed
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          # Stages the modified README.md for commit
+          git add README.md
+          
+          # Commits the changes with a message
+          git commit -m "Update daily comics"
+          
+          # Pushes the commit to the remote repository
+          git push
+
+      - name: Check for Errors
+        if: failure()  # Executes only if any of the previous steps have failed
+        run: |
+          echo "Error occurred. Printing git status and last few commits..."
+          
+          # Outputs the current Git status to help diagnose the issue
+          git status
+          
+          # Shows the last five commits for additional context
+          git log -n 5
+          
+          # Exits with a non-zero status to mark the workflow as failed
+          exit 1

@@ -3,10 +3,13 @@ package main
 import (
 	"encoding/json" // Added for LD+JSON parsing
 	"errors"
+	"flag" // Added for command-line flags
 	"fmt"
 	"io"
 	"net/http"
+	"os" // Added for os.Stderr and os.Exit
 	"strings"
+	"time" // Added for default date
 
 	"golang.org/x/net/html"
 )
@@ -21,7 +24,11 @@ func GetComicImage(comicName string, year int, month int, day int, urlOnly bool)
 	dateStr := fmt.Sprintf("%d/%02d/%02d", year, month, day)
 	comicURL := fmt.Sprintf("https://www.gocomics.com/%s/%s", comicName, dateStr)
 
-	fmt.Printf("Fetching HTML from: %s\n", comicURL)
+	if urlOnly {
+		fmt.Fprintf(os.Stderr, "Fetching HTML from: %s\n", comicURL)
+	} else {
+		fmt.Printf("Fetching HTML from: %s\n", comicURL)
+	}
 
 	// 2. HTML Fetching
 	resp, err := http.Get(comicURL)
@@ -52,7 +59,11 @@ func GetComicImage(comicName string, year int, month int, day int, urlOnly bool)
 		return nil, fmt.Errorf("failed to extract image URL from HTML of %s: %w", comicURL, err)
 	}
 
-	fmt.Printf("Extracted image URL: %s\n", imageSrcURL)
+	if urlOnly {
+		fmt.Fprintf(os.Stderr, "Extracted image URL: %s\n", imageSrcURL)
+	} else {
+		fmt.Printf("Extracted image URL: %s\n", imageSrcURL)
+	}
 
 	// 4. Return Value
 	if urlOnly {
@@ -60,7 +71,13 @@ func GetComicImage(comicName string, year int, month int, day int, urlOnly bool)
 	}
 
 	// Fetch the image data
-	fmt.Printf("Fetching image data from: %s\n", imageSrcURL)
+	if urlOnly {
+		// When urlOnly is true, we don't fetch image data, so this print should ideally not be reached.
+		// However, to be safe, if it were, it should also go to stderr.
+		fmt.Fprintf(os.Stderr, "Fetching image data from: %s\n", imageSrcURL)
+	} else {
+		fmt.Printf("Fetching image data from: %s\n", imageSrcURL)
+	}
 	imgResp, err := http.Get(imageSrcURL)
 	if err != nil {
 		return nil, fmt.Errorf("failed to fetch image from %s: %w", imageSrcURL, err)
@@ -292,37 +309,60 @@ func extractImageURLFromNode(doc *html.Node) (string, error) {
 }
 
 func main() {
-	comicName := "calvinandhobbes"
-	year := 2024
-	month := 1
-	day := 1
+	comicNameFlag := flag.String("comic-name", "", "Name of the comic (e.g., \"calvinandhobbes\", required)")
+	yearFlag := flag.Int("year", 0, "Year of the comic (optional, defaults to current year)")
+	monthFlag := flag.Int("month", 0, "Month of the comic (optional, defaults to current month)")
+	dayFlag := flag.Int("day", 0, "Day of the comic (optional, defaults to current day)")
+	urlOnlyFlag := flag.Bool("url-only", false, "If true, print only the image URL to stdout. This flag must be present for URL fetching.")
 
-	fmt.Printf("--- Test Case 1: Get Image URL Only ---\n")
-	imgURLInterface, err := GetComicImage(comicName, year, month, day, true)
-	if err != nil {
-		fmt.Printf("Error getting image URL: %v\n", err)
-	} else {
-		imgURL, ok := imgURLInterface.(string)
-		if !ok {
-			fmt.Printf("Error: Expected string for image URL, got %T\n", imgURLInterface)
-		} else {
-			fmt.Printf("Successfully retrieved Image URL: %s\n", imgURL)
-		}
+	flag.Usage = func() {
+		fmt.Fprintf(os.Stderr, "Usage: %s --url-only --comic-name <name> [--year YYYY] [--month MM] [--day DD]\n\n", os.Args[0])
+		fmt.Fprintf(os.Stderr, "Options:\n")
+		flag.PrintDefaults()
+	}
+	flag.Parse()
+
+	if !*urlOnlyFlag {
+		fmt.Fprintf(os.Stderr, "Error: --url-only flag is required to fetch and print the comic URL.\n\n")
+		flag.Usage()
+		os.Exit(1)
 	}
 
-	fmt.Printf("\n--- Test Case 2: Get Image Data ---\n")
-	imgDataInterface, err := GetComicImage(comicName, year, month, day, false)
-	if err != nil {
-		fmt.Printf("Error getting image data: %v\n", err)
-	} else {
-		imgData, ok := imgDataInterface.([]byte)
-		if !ok {
-			fmt.Printf("Error: Expected []byte for image data, got %T\n", imgDataInterface)
-		} else {
-			fmt.Printf("Successfully retrieved image data (size: %d bytes).\n", len(imgData))
-			// For verification, you could save this data to a file, e.g.:
-			// import "os"
-			// os.WriteFile("calvinandhobbes_2024_01_01.jpg", imgData, 0644) // Ensure correct extension
-		}
+	if *comicNameFlag == "" {
+		fmt.Fprintf(os.Stderr, "Error: --comic-name flag is required.\n\n")
+		flag.Usage()
+		os.Exit(1)
 	}
+
+	now := time.Now()
+	year := *yearFlag
+	if year == 0 {
+		year = now.Year()
+	}
+
+	month := *monthFlag
+	if month == 0 {
+		month = int(now.Month()) // time.Month() is its own type, convert to int
+	}
+
+	day := *dayFlag
+	if day == 0 {
+		day = now.Day()
+	}
+
+	// Call GetComicImage with urlOnly explicitly true, as per the --url-only flag's purpose.
+	imgURLInterface, err := GetComicImage(*comicNameFlag, year, month, day, true)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error fetching comic image URL: %v\n", err)
+		os.Exit(1)
+	}
+
+	imgURL, ok := imgURLInterface.(string)
+	if !ok {
+		fmt.Fprintf(os.Stderr, "Error: GetComicImage returned an unexpected type for URL: %T. Expected string.\n", imgURLInterface)
+		os.Exit(1)
+	}
+
+	fmt.Println(imgURL) // Print only the URL to stdout. A newline will be appended by Println.
+	// os.Exit(0) is implicit on successful completion of main.
 }
