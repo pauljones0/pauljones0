@@ -23,48 +23,40 @@ jobs:
       - name: Fetch Daily XKCD Comic
         id: fetch-xkcd
         run: |
-          # Fetches the latest XKCD comic number from the XKCD API
-          COMIC_NUM=$(curl -s https://xkcd.com/info.0.json | jq -r '.num')
+          # Fetches the latest XKCD comic metadata from the XKCD API
+          JSON_RESPONSE=$(curl -s https://xkcd.com/info.0.json)
+          XKCD_IMG_URL=$(echo "$JSON_RESPONSE" | jq -r '.img')
+          XKCD_ALT_TEXT=$(echo "$JSON_RESPONSE" | jq -r '.alt')
           
-          # Retrieves the alt text for the fetched comic number
-          ALT_TEXT=$(curl -s https://xkcd.com/${COMIC_NUM}/info.0.json | jq -r '.alt')
-          
-          # Retrieves the image URL for the fetched comic number
-          IMAGE_URL=$(curl -s https://xkcd.com/${COMIC_NUM}/info.0.json | jq -r '.img')
-          
-          # Creates the directory to store the comic image if it doesn't exist
-          mkdir -p .github/xkcd
-          
-          # Downloads the XKCD comic image and saves it to the specified directory
-          curl -s $IMAGE_URL -o .github/xkcd/XKCD_daily.png
-          
-          # Exports the comic number and alt text as environment variables for use in subsequent steps
-          echo "COMIC_NUM=${COMIC_NUM}" >> $GITHUB_ENV
-          echo "ALT_TEXT=${ALT_TEXT}" >> $GITHUB_ENV
+          # Exports the image URL and alt text as environment variables for use in subsequent steps
+          echo "XKCD_IMG_URL=${XKCD_IMG_URL}" >> $GITHUB_ENV
+          echo "XKCD_ALT_TEXT=${XKCD_ALT_TEXT}" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          echo "Updating README.md with the latest XKCD caption..."
-          # Replace the text between <sub> and </sub> with the new ALT_TEXT value
-          perl -i -pe 'BEGIN { $alt = $ENV{ALT_TEXT}; } s{(<sub>).*?(</sub>)}{$1$alt$2}' README.md
+          echo "Updating README.md with the latest XKCD comic..."
+          # Replace the placeholder for the image
+          perl -i -0777 -pe 'BEGIN { $img_url = $ENV{XKCD_IMG_URL}; $alt_text = $ENV{XKCD_ALT_TEXT}; } s{(<!-- START_XKCD_IMG -->)(.*?)(<!-- END_XKCD_IMG -->)}{$1\n            <img src="$img_url" alt="$alt_text"/>\n            $3}s' README.md
+          # Replace the placeholder for the alt text
+          perl -i -0777 -pe 'BEGIN { $alt_text = $ENV{XKCD_ALT_TEXT}; } s{(<!-- START_XKCD_ALT -->)(.*?)(<!-- END_XKCD_ALT -->)}{$1\n            <sub>$alt_text</sub>\n            $3}s' README.md
           echo "Content of README.md after update:"
           cat README.md
 
       - name: Check for changes
         id: git-check
         run: |
-          # Checks if the README.md or the XKCD image has changed
-          git diff --exit-code README.md .github/xkcd/XKCD_daily.png || echo "changes=true" >> $GITHUB_OUTPUT
+          # Checks if the README.md has changed
+          git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
           # If changes are detected, sets the output variable 'changes' to 'true'
 
       - name: Commit and Push if Changed
         if: steps.git-check.outputs.changes == 'true'
         run: |
-          # Stages the modified README.md and XKCD image for commit
-          git add README.md .github/xkcd/XKCD_daily.png
+          # Stages the modified README.md for commit
+          git add README.md
           
-          # Commits the changes with a message including the XKCD comic number
-          git commit -m "Update README with latest XKCD comic #${COMIC_NUM}"
+          # Commits the changes with a message
+          git commit -m "Update daily XKCD comic"
           
           # Pushes the commit to the remote repository
           git push

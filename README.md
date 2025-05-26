@@ -34,12 +34,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img alt="Daily XKCD Comic" src="https://raw.githubusercontent.com/pauljones0/pauljones0/main/.github/xkcd/XKCD_daily.png">
+            <!-- START_XKCD_IMG -->
+            <img alt="Loading daily XKCD comic..." src="placeholder_image.png"/>
+            <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
-      <sub>A 5% efficiency gain at the cost of a 99% efficiency loss</sub>
+            <!-- START_XKCD_ALT -->
+            <sub>Loading comic caption...</sub>
+            <!-- END_XKCD_ALT -->
     </td>
   </tr>
 </table>
