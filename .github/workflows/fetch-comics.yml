@@ -24,6 +24,7 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: '1.21'
+          cache-dependency-path: scripts/gocomics/go.sum
 
       - name: Cache Go modules
         uses: actions/cache@v4
@@ -46,11 +47,11 @@ jobs:
           if [ $EXIT_CODE -eq 0 ] && [ -n "$URL_OUTPUT" ]; then
             echo "CH_URL=${URL_OUTPUT}" >> $GITHUB_ENV
             echo "Successfully fetched Calvin and Hobbes URL: $URL_OUTPUT"
-            echo "ch_fetch_outcome=success" >> $GITHUB_OUTPUT
+            echo "CH_FETCH_OUTCOME=success" >> $GITHUB_ENV
           else
             echo "::error::Failed to fetch Calvin and Hobbes URL. Go script exit code: $EXIT_CODE, Output: '$URL_OUTPUT'"
             echo "CH_URL=" >> $GITHUB_ENV # Ensure CH_URL is defined, even if empty
-            echo "ch_fetch_outcome=failure" >> $GITHUB_OUTPUT
+            echo "CH_FETCH_OUTCOME=failure" >> $GITHUB_ENV
           fi
         continue-on-error: true
 
@@ -85,7 +86,7 @@ jobs:
           
           echo "XKCD_IMG_URL=${XKCD_IMG_URL}" >> $GITHUB_ENV
           echo "XKCD_ALT_TEXT=${XKCD_ALT_TEXT}" >> $GITHUB_ENV
-          echo "xkcd_fetch_outcome=${XKCD_FETCH_OUTCOME}" >> $GITHUB_OUTPUT
+          echo "XKCD_FETCH_OUTCOME=${XKCD_FETCH_OUTCOME}" >> $GITHUB_ENV
         continue-on-error: true
 
       - name: Set up Python
@@ -97,9 +98,7 @@ jobs:
         env:
           XKCD_IMG_URL: ${{ env.XKCD_IMG_URL }}
           XKCD_ALT_TEXT: ${{ env.XKCD_ALT_TEXT }}
-          XKCD_FETCH_OUTCOME: ${{ steps.fetch_xkcd.outputs.xkcd_fetch_outcome }}
           CH_URL: ${{ env.CH_URL }}
-          CH_FETCH_OUTCOME: ${{ steps.fetch_ch.outputs.ch_fetch_outcome }}
         run: python scripts/update_readme.py
 
       - name: Check for changes
