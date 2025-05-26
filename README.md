@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/drafting.png" alt="A 5% efficiency gain at the cost of a 99% efficiency loss"/>
+            <img src=\"https://imgs.xkcd.com/comics/drafting.png\" alt=\"A 5% efficiency gain at the cost of a 99% efficiency loss\"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
