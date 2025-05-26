@@ -35,15 +35,28 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img alt="Loading daily XKCD comic..." src="placeholder_image.png"/>
+            <img src=\"https://imgs.xkcd.com/comics/drafting.png\" alt=\"A 5% efficiency gain at the cost of a 99% efficiency loss\"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Loading comic caption...</sub>
+            <sub>A 5% efficiency gain at the cost of a 99% efficiency loss</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
 </table>
+
+<!-- START_CALVIN_AND_HOBBES_SECTION -->
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center"><h3 style="margin: 0;">Daily Calvin and Hobbes Comic</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://featureassets.gocomics.com/assets/1803ce30fc5e013d9b5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+    </td>
+  </tr>
+</table>
+<!-- END_CALVIN_AND_HOBBES_SECTION -->
