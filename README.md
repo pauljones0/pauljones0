@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src=\"https://imgs.xkcd.com/comics/drafting.png\" alt=\"A 5% efficiency gain at the cost of a 99% efficiency loss\"/>
+            <img src=\"https://imgs.xkcd.com/comics/mass_spec.png\" alt=\"Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure.\"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>A 5% efficiency gain at the cost of a 99% efficiency loss</sub>
+            <sub>Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
