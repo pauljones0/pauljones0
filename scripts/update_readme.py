@@ -4,7 +4,6 @@ import re
 readme_path = "README.md"
 
 xkcd_img_url = os.getenv("XKCD_IMG_URL", "")
-xkcd_img_url = xkcd_img_url.replace("\\\\", "")
 xkcd_alt_text = os.getenv("XKCD_ALT_TEXT", "XKCD comic")
 xkcd_outcome = os.getenv("XKCD_FETCH_OUTCOME", "failure")
 
@@ -26,7 +25,7 @@ if xkcd_outcome == "success" and xkcd_img_url:
     escaped_xkcd_alt_text = xkcd_alt_text.replace('"', '&quot;') # Keep this for attribute value
     content = re.sub(
         r"(<!-- START_XKCD_IMG -->)(.*?)(<!-- END_XKCD_IMG -->)",
-        rf"\1\n            <img src=\"{xkcd_img_url}\" alt=\"{escaped_xkcd_alt_text}\"/>\n            \3",
+        rf'\1\n            <img src="{xkcd_img_url}" alt="{escaped_xkcd_alt_text}"/>\n            \3',
         content,
         flags=re.DOTALL,
     )
