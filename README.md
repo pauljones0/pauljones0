@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/mass_spec.png" alt="Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure."/>
+            <img src="https://imgs.xkcd.com/comics/archaea.png" alt="Under the two-domain system, anyone who punches you is technically an Archaean pathogen."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure.</sub>
+            <sub>Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/1a189910fc5e013d9b5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/1c275230fc5e013d9b5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
