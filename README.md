@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/archaea.png" alt="Under the two-domain system, anyone who punches you is technically an Archaean pathogen."/>
+            <img src="https://imgs.xkcd.com/comics/check_engine.png" alt="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</sub>
+            <sub>They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/1e171a40fc5e013d9b5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/201b3150fc5e013d9b5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
