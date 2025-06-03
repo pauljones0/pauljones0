@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/check_engine.png" alt="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone."/>
+            <img src="https://imgs.xkcd.com/comics/bridge_types.png" alt="Pontoon bridges are just linear open-sided waterbeds."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</sub>
+            <sub>Pontoon bridges are just linear open-sided waterbeds.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/a94cad401758013ea0ab005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/5e8cd11011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
