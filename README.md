@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/trojan_horse.png" alt="Ultimately, history would imperfectly record the story of the Foal of Troy."/>
+            <img src="https://imgs.xkcd.com/comics/neighbor_source_heat_pump.png" alt="The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Ultimately, history would imperfectly record the story of the Foal of Troy.</sub>
+            <sub>The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/62f005a011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/82a168f011d8013e9f64005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
