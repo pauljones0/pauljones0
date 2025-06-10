@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/neighbor_source_heat_pump.png" alt="The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute."/>
+            <img src="https://imgs.xkcd.com/comics/alert_sound.png" alt="With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute.</sub>
+            <sub>With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/af1613701758013ea0ab005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/679fd37011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
