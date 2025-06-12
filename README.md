@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/alert_sound.png" alt="With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't."/>
+            <img src="https://imgs.xkcd.com/comics/good_science.png" alt="If you think curiosity without rigor is bad, you should see rigor without curiosity."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't.</sub>
+            <sub>If you think curiosity without rigor is bad, you should see rigor without curiosity.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/69e74b5011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/6bf5870011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
