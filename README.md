@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/good_science.png" alt="If you think curiosity without rigor is bad, you should see rigor without curiosity."/>
+            <img src="https://imgs.xkcd.com/comics/reading_a_big_number.png" alt="[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>If you think curiosity without rigor is bad, you should see rigor without curiosity.</sub>
+            <sub>[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/89857c3011d8013e9f64005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/6e1527b011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
