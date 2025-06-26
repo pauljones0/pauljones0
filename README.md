@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/farads.png" alt="'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'"/>
+            <img src="https://imgs.xkcd.com/comics/weather_balloons.png" alt="Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'</sub>
+            <sub>Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/767a496011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/9c31364011d8013e9f64005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
