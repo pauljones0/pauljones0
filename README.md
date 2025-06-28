@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/weather_balloons.png" alt="Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'"/>
+            <img src="https://imgs.xkcd.com/comics/laser_danger.png" alt="To combat the threat, many airlines are installing wing-mounted spray bottles."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'</sub>
+            <sub>To combat the threat, many airlines are installing wing-mounted spray bottles.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/789a3ed011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/7a9bfe5011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
