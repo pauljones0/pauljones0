@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/laser_danger.png" alt="To combat the threat, many airlines are installing wing-mounted spray bottles."/>
+            <img src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="It's important for devices to have internet connectivity so the manufacturer can patch remote exploits."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>To combat the threat, many airlines are installing wing-mounted spray bottles.</sub>
+            <sub>It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/bff2f8b01758013ea0ab005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a2e10ff011d8013e9f64005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
