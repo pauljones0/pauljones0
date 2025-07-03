@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="It's important for devices to have internet connectivity so the manufacturer can patch remote exploits."/>
+            <img src="https://imgs.xkcd.com/comics/global_ranking.png" alt="Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.</sub>
+            <sub>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/7cd9179011a3013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/f33a493011a4013e9f5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
