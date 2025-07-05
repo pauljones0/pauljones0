@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/global_ranking.png" alt="Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard."/>
+            <img src="https://imgs.xkcd.com/comics/artificial_gravity.png" alt="Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</sub>
+            <sub>Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/a7739f3011d8013e9f64005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a9a1ffd011d8013e9f64005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
