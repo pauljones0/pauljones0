@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/geology_murder.png" alt="After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound."/>
+            <img src="https://imgs.xkcd.com/comics/fix_this_sign.png" alt="We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.</sub>
+            <sub>We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/fbf631c023b8013ea359005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/07e75ec023b8013ea359005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
