@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/fix_this_sign.png" alt="We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes."/>
+            <img src="https://imgs.xkcd.com/comics/building_a_fire.png" alt="That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.</sub>
+            <sub>That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/198c82403342013ea6e3005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/1b9962c03342013ea6e3005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
