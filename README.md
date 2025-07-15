@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/building_a_fire.png" alt="That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit."/>
+            <img src="https://imgs.xkcd.com/comics/unsolved_physics_problems.png" alt="'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit.</sub>
+            <sub>'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/4f98e4803f0b013ea9af005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/266c7fe03587013ea78a005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
