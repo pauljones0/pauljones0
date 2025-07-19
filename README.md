@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="This is almost as bad as the time I signed up for a purely partisan fishing expedition."/>
+            <img src="https://imgs.xkcd.com/comics/replication_crisis.png" alt="Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>This is almost as bad as the time I signed up for a purely partisan fishing expedition.</sub>
+            <sub>Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/28a6c3103587013ea78a005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/2abfd8a03587013ea78a005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
