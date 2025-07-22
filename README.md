@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/replication_crisis.png" alt="Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying."/>
+            <img src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png" alt="Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.</sub>
+            <sub>Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/fb4fbcd03f05013ea9ad005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/910192503588013ea78b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
