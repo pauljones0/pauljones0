@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/910192503588013ea78b005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/930568703588013ea78b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
