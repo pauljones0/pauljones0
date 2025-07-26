@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/flettner_rotor.png" alt="&quot;And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses.&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/geologic_periods.png" alt="Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."</sub>
+            <sub>Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/0d9369b023b8013ea359005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/952c3a703588013ea78b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
