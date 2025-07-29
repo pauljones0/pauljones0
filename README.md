@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/geologic_periods.png" alt="Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about."/>
+            <img src="https://imgs.xkcd.com/comics/kite_incident.png" alt="Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.</sub>
+            <sub>Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/552974903f0b013ea9af005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/973611103588013ea78b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
