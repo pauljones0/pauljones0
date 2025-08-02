@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png" alt="During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together."/>
+            <img src="https://imgs.xkcd.com/comics/canon.png" alt="Achilles was a mighty warrior, but his Achilles' heel was his heel."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.</sub>
+            <sub>Achilles was a mighty warrior, but his Achilles' heel was his heel.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/10e5cf9023b8013ea359005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/9b3ea2b03588013ea78b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
