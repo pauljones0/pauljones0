@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/canon.png" alt="Achilles was a mighty warrior, but his Achilles' heel was his heel."/>
+            <img src="https://imgs.xkcd.com/comics/grounded.png" alt="We should have you at the gate in just under two hours--two and a half if we get pulled over."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Achilles was a mighty warrior, but his Achilles' heel was his heel.</sub>
+            <sub>We should have you at the gate in just under two hours--two and a half if we get pulled over.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/000dfb303f06013ea9ad005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/e154587038e7013ea84c005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
