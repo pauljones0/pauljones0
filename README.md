@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/grounded.png" alt="We should have you at the gate in just under two hours--two and a half if we get pulled over."/>
+            <img src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png" alt="Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>We should have you at the gate in just under two hours--two and a half if we get pulled over.</sub>
+            <sub>Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/e381a87038e7013ea84c005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/e592eb7038e7013ea84c005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
