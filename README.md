@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png" alt="Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration."/>
+            <img src="https://imgs.xkcd.com/comics/disclaimer.png" alt="You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.</sub>
+            <sub>You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/e771b8b038e7013ea84c005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/e983d91038e7013ea84c005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
