@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/disclaimer.png" alt="You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong."/>
+            <img src="https://imgs.xkcd.com/comics/where_babies_come_from.png" alt="Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.</sub>
+            <sub>Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/0574d3d03f06013ea9ad005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/1f5d43e038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
