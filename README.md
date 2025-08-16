@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/thread_meeting.png" alt="Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry."/>
+            <img src="https://imgs.xkcd.com/comics/archaeology_research.png" alt="The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.</sub>
+            <sub>The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/255fe9d038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/2791b68038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
