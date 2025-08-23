@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/cesium.png" alt="Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA."/>
+            <img src="https://imgs.xkcd.com/comics/coastline_similarity.png" alt="Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.</sub>
+            <sub>Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/3251020038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/344d886038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
