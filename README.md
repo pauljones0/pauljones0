@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/coastline_similarity.png" alt="Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!"/>
+            <img src="https://imgs.xkcd.com/comics/dual_roomba.png" alt="I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</sub>
+            <sub>I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/0f85aaa03f06013ea9ad005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/389cdd8038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
