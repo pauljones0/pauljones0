@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/wavefunction_collapse.png" alt="Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls."/>
+            <img src="https://imgs.xkcd.com/comics/sea_level.png" alt="They're up there with coral islands, lightning, and caterpillars turning into butterflies."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.</sub>
+            <sub>They're up there with coral islands, lightning, and caterpillars turning into butterflies.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/3eee81b038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/412ce15038ec013ea84d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
