@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/pull.png" alt="Be careful fighting gravity. If you win, it's a long way down."/>
+            <img src="https://imgs.xkcd.com/comics/cursed_number.png" alt="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Be careful fighting gravity. If you win, it's a long way down.</sub>
+            <sub>Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/a31695f04f72013ead4c005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a4cef0904f72013ead4c005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
