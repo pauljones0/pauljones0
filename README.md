@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/cursed_number.png" alt="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop."/>
+            <img src="https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png" alt="A person with two watches is never sure what time it is, especially if I got them one of the watches."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</sub>
+            <sub>A person with two watches is never sure what time it is, especially if I got them one of the watches.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/a6bb64e04f72013ead4c005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a89c25904f72013ead4c005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
