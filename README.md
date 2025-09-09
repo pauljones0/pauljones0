@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png" alt="A person with two watches is never sure what time it is, especially if I got them one of the watches."/>
+            <img src="https://imgs.xkcd.com/comics/chess_variant.png" alt="The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>A person with two watches is never sure what time it is, especially if I got them one of the watches.</sub>
+            <sub>The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/2b996f1058f0013eaec6005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/ac6470504f72013ead4c005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
