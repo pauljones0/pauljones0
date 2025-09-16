@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/mantle_model.png" alt="Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes."/>
+            <img src="https://imgs.xkcd.com/comics/city_style_pizza.png" alt="If you want to see true audacity, do an image search for 'Altoona-style pizza.'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.</sub>
+            <sub>If you want to see true audacity, do an image search for 'Altoona-style pizza.'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/30ed24a058f0013eaec6005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/28c66ec04fa6013ead5b005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
