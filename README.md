@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/fantastic_four.png" alt="One perk of being born at 0.88c is that your birthday is over two days long."/>
+            <img src="https://imgs.xkcd.com/comics/hiking.png" alt="Every downhill walk is a waterslide that might have been."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>One perk of being born at 0.88c is that your birthday is over two days long.</sub>
+            <sub>Every downhill walk is a waterslide that might have been.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/9f081a404f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a0cf8fe04f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
