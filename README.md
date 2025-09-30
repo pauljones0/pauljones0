@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/hiking.png" alt="Every downhill walk is a waterslide that might have been."/>
+            <img src="https://imgs.xkcd.com/comics/100_all_achievements.png" alt="I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Every downhill walk is a waterslide that might have been.</sub>
+            <sub>I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/3dc9efe058f0013eaec6005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a4dc22f04f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
