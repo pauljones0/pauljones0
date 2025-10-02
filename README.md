@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/100_all_achievements.png" alt="I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade."/>
+            <img src="https://imgs.xkcd.com/comics/measure_twice_cut_once.png" alt="&quot;Measure zero times, cut zero times.&quot; --carpenter who has achieved enlightenment and realized the wood is fine where it is"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.</sub>
+            <sub>"Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/a6d871c04f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/a8dda3c04f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
