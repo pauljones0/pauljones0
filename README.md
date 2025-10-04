@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/measure_twice_cut_once.png" alt="&quot;Measure zero times, cut zero times.&quot; --carpenter who has achieved enlightenment and realized the wood is fine where it is"/>
+            <img src="https://imgs.xkcd.com/comics/ping.png" alt="Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is</sub>
+            <sub>Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/aad25c704f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <img src="https://featureassets.gocomics.com/assets/acc768104f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
     </td>
   </tr>
 </table>
