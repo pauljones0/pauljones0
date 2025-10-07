@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/ping.png" alt="Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow."/>
+            <img src="https://imgs.xkcd.com/comics/window_screen.png" alt="The Nobel Prize in Physiology or Medicine or Home Improvement or DIY"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.</sub>
+            <sub>The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
