@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/window_screen.png" alt="The Nobel Prize in Physiology or Medicine or Home Improvement or DIY"/>
+            <img src="https://imgs.xkcd.com/comics/skateboard.png" alt="I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</sub>
+            <sub>I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
