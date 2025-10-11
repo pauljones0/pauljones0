@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/skateboard.png" alt="I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks."/>
+            <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png" alt="Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.</sub>
+            <sub>Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
