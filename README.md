@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png" alt="Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved."/>
+            <img src="https://imgs.xkcd.com/comics/physics_insight.png" alt="When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.</sub>
+            <sub>When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
