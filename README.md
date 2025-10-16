@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/physics_insight.png" alt="When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'"/>
+            <img src="https://imgs.xkcd.com/comics/physics_paths.png" alt="If nothing else, that reasoning definitely overturns syllogisms."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'</sub>
+            <sub>If nothing else, that reasoning definitely overturns syllogisms.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
