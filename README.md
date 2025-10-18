@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/physics_paths.png" alt="If nothing else, that reasoning definitely overturns syllogisms."/>
+            <img src="https://imgs.xkcd.com/comics/planetary_rings.png" alt="If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>If nothing else, that reasoning definitely overturns syllogisms.</sub>
+            <sub>If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
