@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/emperor_palpatine.png" alt="Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call."/>
+            <img src="https://imgs.xkcd.com/comics/shielding_chart.png" alt="Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.</sub>
+            <sub>Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
