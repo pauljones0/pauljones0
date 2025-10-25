@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/shielding_chart.png" alt="Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high."/>
+            <img src="https://imgs.xkcd.com/comics/continents.png" alt="The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</sub>
+            <sub>The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
