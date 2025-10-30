@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/document_forgery.png" alt="It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a..."/>
+            <img src="https://imgs.xkcd.com/comics/airspeed.png" alt="Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</sub>
+            <sub>Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
