@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/airspeed.png" alt="Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record"/>
+            <img src="https://imgs.xkcd.com/comics/heart_mountain.png" alt="Even geology papers about Heart Mountain are like, &quot;Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but...&quot;"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</sub>
+            <sub>Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
