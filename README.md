@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/heart_mountain.png" alt="Even geology papers about Heart Mountain are like, &quot;Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but...&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/repair_video.png" alt="The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."</sub>
+            <sub>The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
