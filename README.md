@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/repair_video.png" alt="The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue."/>
+            <img src="https://imgs.xkcd.com/comics/metric_tip.png" alt="The package weighs 7 kg 9 oz."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.</sub>
+            <sub>The package weighs 7 kg 9 oz.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
