@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png" alt="At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'"/>
+            <img src="https://imgs.xkcd.com/comics/big_and_little_spoons.png" alt="Are you the annoying spoon or the sleepy spoon?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'</sub>
+            <sub>Are you the annoying spoon or the sleepy spoon?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
