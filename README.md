@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/car_size.png" alt="'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'"/>
+            <img src="https://imgs.xkcd.com/comics/beam_dump.png" alt="We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'</sub>
+            <sub>We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
