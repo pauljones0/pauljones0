@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/beam_dump.png" alt="We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain."/>
+            <img src="https://imgs.xkcd.com/comics/epirbs.png" alt="'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.</sub>
+            <sub>'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
