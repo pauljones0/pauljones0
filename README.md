@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/epirbs.png" alt="'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'"/>
+            <img src="https://imgs.xkcd.com/comics/service_outage.png" alt="Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'</sub>
+            <sub>Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
