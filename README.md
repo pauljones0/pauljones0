@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/geologic_core_sample.png" alt="If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment."/>
+            <img src="https://imgs.xkcd.com/comics/fifteen_years.png" alt="&quot;Want to feel old?&quot; &quot;Yes.&quot;"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.</sub>
+            <sub>"Want to feel old?" "Yes."</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
