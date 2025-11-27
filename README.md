@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/fifteen_years.png" alt="&quot;Want to feel old?&quot; &quot;Yes.&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/satellite_imagery.png" alt="Every weekend I take an ATV out into the desert and spend a day tracing a faint &quot;(C) GOOGLE 2009&quot; watermark across the landscape."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"Want to feel old?" "Yes."</sub>
+            <sub>Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
