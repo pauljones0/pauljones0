@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/bridge_clearance.png" alt="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead."/>
+            <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png" alt="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.</sub>
+            <sub>Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
