@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png" alt="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!"/>
+            <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png" alt="Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</sub>
+            <sub>Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
