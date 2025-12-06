@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png" alt="Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast."/>
+            <img src="https://imgs.xkcd.com/comics/chessboard_alignment.png" alt="Luckily, the range is limited by the fact that the square boundary lines follow great circles."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</sub>
+            <sub>Luckily, the range is limited by the fact that the square boundary lines follow great circles.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
