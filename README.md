@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/chessboard_alignment.png" alt="Luckily, the range is limited by the fact that the square boundary lines follow great circles."/>
+            <img src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png" alt="Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Luckily, the range is limited by the fact that the square boundary lines follow great circles.</sub>
+            <sub>Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
