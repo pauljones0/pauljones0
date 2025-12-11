@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png" alt="Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun."/>
+            <img src="https://imgs.xkcd.com/comics/fishing.png" alt="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.</sub>
+            <sub>'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
