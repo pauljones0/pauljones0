@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/fishing.png" alt="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'"/>
+            <img src="https://imgs.xkcd.com/comics/apples.png" alt="The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'</sub>
+            <sub>The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
