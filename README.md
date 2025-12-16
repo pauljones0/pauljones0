@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/apples.png" alt="The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph."/>
+            <img src="https://imgs.xkcd.com/comics/jumping_frog_radius.png" alt="Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</sub>
+            <sub>Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
