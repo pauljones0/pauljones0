@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/telescope_types.png" alt="I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length."/>
+            <img src="https://imgs.xkcd.com/comics/pole_vault_pole.png" alt="My goal in life is to be personally responsible for at least one sports rule change."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.</sub>
+            <sub>My goal in life is to be personally responsible for at least one sports rule change.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
