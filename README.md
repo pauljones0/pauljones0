@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/pole_vault_pole.png" alt="My goal in life is to be personally responsible for at least one sports rule change."/>
+            <img src="https://imgs.xkcd.com/comics/funny_numbers.png" alt="In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>My goal in life is to be personally responsible for at least one sports rule change.</sub>
+            <sub>In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
