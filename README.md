@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/funny_numbers.png" alt="In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant."/>
+            <img src="https://imgs.xkcd.com/comics/sauropods.png" alt="Vertebrae Georg"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.</sub>
+            <sub>Vertebrae Georg</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
