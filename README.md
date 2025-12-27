@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/sauropods.png" alt="Vertebrae Georg"/>
+            <img src="https://imgs.xkcd.com/comics/truly_universal_outlet.png" alt="Building Inspectors HATE This One Weird Trick"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Vertebrae Georg</sub>
+            <sub>Building Inspectors HATE This One Weird Trick</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
