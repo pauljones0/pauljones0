@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/truly_universal_outlet.png" alt="Building Inspectors HATE This One Weird Trick"/>
+            <img src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" alt="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Building Inspectors HATE This One Weird Trick</sub>
+            <sub>1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
