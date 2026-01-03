@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/anyone_else_here.png" alt="Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline."/>
+            <img src="https://imgs.xkcd.com/comics/conic_sections.png" alt="They're not generally used for crewed spacecraft because astronauts HATE going around the corners."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.</sub>
+            <sub>They're not generally used for crewed spacecraft because astronauts HATE going around the corners.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
