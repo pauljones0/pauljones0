@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/conic_sections.png" alt="They're not generally used for crewed spacecraft because astronauts HATE going around the corners."/>
+            <img src="https://imgs.xkcd.com/comics/tensegrity.png" alt="Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>They're not generally used for crewed spacecraft because astronauts HATE going around the corners.</sub>
+            <sub>Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
