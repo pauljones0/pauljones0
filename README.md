@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/tensegrity.png" alt="Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it."/>
+            <img src="https://imgs.xkcd.com/comics/superstition.png" alt="It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</sub>
+            <sub>It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
