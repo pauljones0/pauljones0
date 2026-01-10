@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/superstition.png" alt="It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!"/>
+            <img src="https://imgs.xkcd.com/comics/planetary_alignment.png" alt="We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!</sub>
+            <sub>We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
