@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/planetary_alignment.png" alt="We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?"/>
+            <img src="https://imgs.xkcd.com/comics/sailing_rigs.png" alt="I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</sub>
+            <sub>I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
