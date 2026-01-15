@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/sailing_rigs.png" alt="I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22."/>
+            <img src="https://imgs.xkcd.com/comics/16_part_epoxy.png" alt="Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.</sub>
+            <sub>Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
