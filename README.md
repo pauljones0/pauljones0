@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/international_station.png" alt="Welcome to the International Space Station Exclamation Point!"/>
+            <img src="https://imgs.xkcd.com/comics/aurora_coolness.png" alt="I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Welcome to the International Space Station Exclamation Point!</sub>
+            <sub>I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
