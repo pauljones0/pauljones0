@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/aurora_coolness.png" alt="I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all."/>
+            <img src="https://imgs.xkcd.com/comics/cost_savings.png" alt="Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.</sub>
+            <sub>Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
