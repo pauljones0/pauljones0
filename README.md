@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/cost_savings.png" alt="Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget."/>
+            <img src="https://imgs.xkcd.com/comics/double_pronged_extension_cord.png" alt="'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</sub>
+            <sub>'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
