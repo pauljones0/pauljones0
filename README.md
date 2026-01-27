@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/double_pronged_extension_cord.png" alt="'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'"/>
+            <img src="https://imgs.xkcd.com/comics/early_arthropods.png" alt="'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'</sub>
+            <sub>'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
