@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/early_arthropods.png" alt="'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects"/>
+            <img src="https://imgs.xkcd.com/comics/chemical_formula.png" alt="Some of the atoms in the molecule are very weakly bound."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects</sub>
+            <sub>Some of the atoms in the molecule are very weakly bound.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
