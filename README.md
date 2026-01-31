@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/chemical_formula.png" alt="Some of the atoms in the molecule are very weakly bound."/>
+            <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Some of the atoms in the molecule are very weakly bound.</sub>
+            <sub>There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
