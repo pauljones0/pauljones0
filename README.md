@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader."/>
+            <img src="https://imgs.xkcd.com/comics/groundhog_day_meaning.png" alt="Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.</sub>
+            <sub>Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
