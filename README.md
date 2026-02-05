@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/groundhog_day_meaning.png" alt="Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania."/>
+            <img src="https://imgs.xkcd.com/comics/binary_star.png" alt="The discovery of a fully typographical star system comes with a big asterisk."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.</sub>
+            <sub>The discovery of a fully typographical star system comes with a big asterisk.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
