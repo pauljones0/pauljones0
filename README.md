@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/carbon_dating.png" alt="This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones."/>
+            <img src="https://imgs.xkcd.com/comics/installation.png" alt="Do YOU remember the skylight being this big?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.</sub>
+            <sub>Do YOU remember the skylight being this big?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
