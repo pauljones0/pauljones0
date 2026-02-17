@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png" alt="'The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,' he thought, derailing all other tasks for the rest of the day."/>
+            <img src="https://imgs.xkcd.com/comics/snews.png" alt="People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,' he thought, derailing all other tasks for the rest of the day.</sub>
+            <sub>People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
