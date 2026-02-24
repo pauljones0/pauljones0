@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/eliminating_the_impossible.png" alt="'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling."/>
+            <img src="https://imgs.xkcd.com/comics/amperage.png" alt="Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.</sub>
+            <sub>Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
