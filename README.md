@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/amperage.png" alt="Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?"/>
+            <img src="https://imgs.xkcd.com/comics/little_red_dots.png" alt="After a lot of analysis, I've determined that they're actually big red dots; they're just very far away."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?</sub>
+            <sub>After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
