@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/little_red_dots.png" alt="After a lot of analysis, I've determined that they're actually big red dots; they're just very far away."/>
+            <img src="https://imgs.xkcd.com/comics/dental_formulas.png" alt="I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.</sub>
+            <sub>I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
