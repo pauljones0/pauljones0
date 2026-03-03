@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/dental_formulas.png" alt="I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points."/>
+            <img src="https://imgs.xkcd.com/comics/electric_vehicles.png" alt="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.</sub>
+            <sub>Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
