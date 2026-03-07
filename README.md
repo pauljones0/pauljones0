@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/solar_warning.png" alt="This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses."/>
+            <img src="https://imgs.xkcd.com/comics/bazookasaurus.png" alt="In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</sub>
+            <sub>In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
