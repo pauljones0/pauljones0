@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/bazookasaurus.png" alt="In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise."/>
+            <img src="https://imgs.xkcd.com/comics/home_remedies.png" alt="As always, you are permitted to call one person for guidance, but that person must be a grandparent."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.</sub>
+            <sub>As always, you are permitted to call one person for guidance, but that person must be a grandparent.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
