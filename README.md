@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/home_remedies.png" alt="As always, you are permitted to call one person for guidance, but that person must be a grandparent."/>
+            <img src="https://imgs.xkcd.com/comics/subduction_retrieval.png" alt="Aww, the oceanic crust and the continental crust are getting married!"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>As always, you are permitted to call one person for guidance, but that person must be a grandparent.</sub>
+            <sub>Aww, the oceanic crust and the continental crust are getting married!</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
