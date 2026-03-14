@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/subduction_retrieval.png" alt="Aww, the oceanic crust and the continental crust are getting married!"/>
+            <img src="https://imgs.xkcd.com/comics/planets_and_bright_stars.png" alt="An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Aww, the oceanic crust and the continental crust are getting married!</sub>
+            <sub>An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
