@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/rotational_gravity.png" alt="I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for."/>
+            <img src="https://imgs.xkcd.com/comics/landscape_features.png" alt="'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.</sub>
+            <sub>'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
