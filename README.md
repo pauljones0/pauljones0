@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/landscape_features.png" alt="'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question"/>
+            <img src="https://imgs.xkcd.com/comics/star_formation.png" alt="It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question</sub>
+            <sub>It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
