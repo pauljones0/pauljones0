@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/star_formation.png" alt="It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!"/>
+            <img src="https://imgs.xkcd.com/comics/inflation_timeline.png" alt="Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</sub>
+            <sub>Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
