@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/inflation_timeline.png" alt="Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'"/>
+            <img src="https://imgs.xkcd.com/comics/centimeter_wavelengths.png" alt="Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'</sub>
+            <sub>Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
