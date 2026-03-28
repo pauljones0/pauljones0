@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/centimeter_wavelengths.png" alt="Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?"/>
+            <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</sub>
+            <sub>We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
