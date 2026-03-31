@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies."/>
+            <img src="https://imgs.xkcd.com/comics/home_solar.png" alt="&quot;While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.&quot;"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</sub>
+            <sub>"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
