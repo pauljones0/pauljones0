@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/home_solar.png" alt="&quot;While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/creation.png" alt="This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."</sub>
+            <sub>This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
