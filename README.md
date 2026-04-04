@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/creation.png" alt="This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic."/>
+            <img src="https://imgs.xkcd.com/comics/day_counter.png" alt="It has been −2,147,483,648 days since our last integer overflow."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</sub>
+            <sub>It has been −2,147,483,648 days since our last integer overflow.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
