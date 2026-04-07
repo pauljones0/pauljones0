@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/day_counter.png" alt="It has been −2,147,483,648 days since our last integer overflow."/>
+            <img src="https://imgs.xkcd.com/comics/grammar.png" alt="Communication is one of the most popular ways to transmit information, ahead of rivals such as"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It has been −2,147,483,648 days since our last integer overflow.</sub>
+            <sub>Communication is one of the most popular ways to transmit information, ahead of rivals such as</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
