@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/grammar.png" alt="Communication is one of the most popular ways to transmit information, ahead of rivals such as"/>
+            <img src="https://imgs.xkcd.com/comics/overton.png" alt="I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Communication is one of the most popular ways to transmit information, ahead of rivals such as</sub>
+            <sub>I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
