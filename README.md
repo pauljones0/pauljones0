@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/overton.png" alt="I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is."/>
+            <img src="https://imgs.xkcd.com/comics/lightning.png" alt="Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.</sub>
+            <sub>Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
