@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/countdown_standard.png" alt="Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples."/>
+            <img src="https://imgs.xkcd.com/comics/make_it_myself.png" alt="It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.</sub>
+            <sub>It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
