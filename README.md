@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/make_it_myself.png" alt="It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!"/>
+            <img src="https://imgs.xkcd.com/comics/europa_missions.png" alt="Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</sub>
+            <sub>Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
