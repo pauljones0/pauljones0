@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/europa_missions.png" alt="Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life."/>
+            <img src="https://imgs.xkcd.com/comics/types_of_board_game.png" alt="I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</sub>
+            <sub>I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
