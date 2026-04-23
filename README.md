@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/types_of_board_game.png" alt="I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion."/>
+            <img src="https://imgs.xkcd.com/comics/border_message.png" alt="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.</sub>
+            <sub>Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
