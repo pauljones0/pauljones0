@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/border_message.png" alt="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air."/>
+            <img src="https://imgs.xkcd.com/comics/husband_and_wife.png" alt="Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.</sub>
+            <sub>Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
