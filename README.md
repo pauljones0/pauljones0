@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/soniferous_aether.png" alt="Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out."/>
+            <img src="https://imgs.xkcd.com/comics/simple_machines.png" alt="It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.</sub>
+            <sub>It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
