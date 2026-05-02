@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/simple_machines.png" alt="It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good."/>
+            <img src="https://imgs.xkcd.com/comics/bottle.png" alt="&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.</sub>
+            <sub>"I know it seems impossible, but the trick is that I sailed in here when I was very young."</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
