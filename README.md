@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/bottle.png" alt="&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/horizontal_stabilizers.png" alt="It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"I know it seems impossible, but the trick is that I sailed in here when I was very young."</sub>
+            <sub>It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
