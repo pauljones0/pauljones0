@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/horizontal_stabilizers.png" alt="It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'."/>
+            <img src="https://imgs.xkcd.com/comics/aperiodic_table.png" alt="Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.</sub>
+            <sub>Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
