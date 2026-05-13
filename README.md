@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/crystal_gazing.png" alt="'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say."/>
+            <img src="https://imgs.xkcd.com/comics/pullback_drive.png" alt="&quot;How does the spring not run out almost immediately?&quot; &quot;We pull it back REALLY far.&quot;"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.</sub>
+            <sub>"How does the spring not run out almost immediately?" "We pull it back REALLY far."</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
