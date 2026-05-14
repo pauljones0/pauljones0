@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/pullback_drive.png" alt="&quot;How does the spring not run out almost immediately?&quot; &quot;We pull it back REALLY far.&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/results_age.png" alt="Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"How does the spring not run out almost immediately?" "We pull it back REALLY far."</sub>
+            <sub>Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
