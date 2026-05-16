@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/results_age.png" alt="Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file."/>
+            <img src="https://imgs.xkcd.com/comics/speedrun.png" alt="Usain Bolt holds the world record in the 100 meter speedrun."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.</sub>
+            <sub>Usain Bolt holds the world record in the 100 meter speedrun.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
