@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/speedrun.png" alt="Usain Bolt holds the world record in the 100 meter speedrun."/>
+            <img src="https://imgs.xkcd.com/comics/particle_census.png" alt="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Usain Bolt holds the world record in the 100 meter speedrun.</sub>
+            <sub>Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
