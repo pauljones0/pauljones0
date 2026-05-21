@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/particle_census.png" alt="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations."/>
+            <img src="https://imgs.xkcd.com/comics/182_8_meters.png" alt="They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.</sub>
+            <sub>They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
