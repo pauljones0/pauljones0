@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/182_8_meters.png" alt="They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect."/>
+            <img src="https://imgs.xkcd.com/comics/neutrino_project.png" alt="We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.</sub>
+            <sub>We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
