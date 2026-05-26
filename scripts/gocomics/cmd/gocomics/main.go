@@ -14,9 +14,6 @@ func main() {
 	yearFlag := flag.Int("year", 0, "Year of the comic (optional, defaults to current year)")
 	monthFlag := flag.Int("month", 0, "Month of the comic (optional, defaults to current month)")
 	dayFlag := flag.Int("day", 0, "Day of the comic (optional, defaults to current day)")
-	// Keep --url-only for backward compatibility but it's now implicit
-	_ = flag.Bool("url-only", true, "Included for backward compatibility; the tool now exclusively fetches URLs")
-
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Usage: %s --comic-name <name> [--year YYYY] [--month MM] [--day DD]\n\n", os.Args[0])
 		fmt.Fprintf(os.Stderr, "This tool fetches and prints the comic image URL to stdout.\n\n")
