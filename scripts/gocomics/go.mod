@@ -1,4 +1,4 @@
-module gocomics
+module github.com/pauljones0/gocomics
 
 go 1.24.1
 
