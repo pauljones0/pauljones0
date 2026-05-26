@@ -13,13 +13,7 @@
     </td>
   </tr>
 </table>
-<img src="https://komarev.com/ghpvc/?username=pauljones0&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views">
 <h2>I'm nerding out about time series right now</h2>
-<td valign="top">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauljones0&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=prussian&amp;border_radius=15&amp;hide_border=true" alt="pauljones0">
-</td>
-  
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pauljones0/pauljones0/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pauljones0/pauljones0/output/github-contribution-grid-snake.svg" />
