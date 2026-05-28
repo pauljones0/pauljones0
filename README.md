@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/flag_design.png" alt="Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be."/>
+            <img src="https://imgs.xkcd.com/comics/time_machine_conversation.png" alt="It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.</sub>
+            <sub>It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
