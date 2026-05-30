@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/time_machine_conversation.png" alt="It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians."/>
+            <img src="https://imgs.xkcd.com/comics/ancestral_genomes.png" alt="SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.</sub>
+            <sub>SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
