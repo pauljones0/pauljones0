@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/sunbeam.png" alt="While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse."/>
+            <img src="https://imgs.xkcd.com/comics/detector.png" alt="No other experiment has a lower false negative rate."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.</sub>
+            <sub>No other experiment has a lower false negative rate.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
