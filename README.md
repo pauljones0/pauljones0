@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/detector.png" alt="No other experiment has a lower false negative rate."/>
+            <img src="https://imgs.xkcd.com/comics/planetary_science.png" alt="The research was overseen by the Institutional Review Board, which is what I named my surfboard."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>No other experiment has a lower false negative rate.</sub>
+            <sub>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
