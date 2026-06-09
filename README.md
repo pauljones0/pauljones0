@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/planetary_science.png" alt="The research was overseen by the Institutional Review Board, which is what I named my surfboard."/>
+            <img src="https://imgs.xkcd.com/comics/nostalgia_content.png" alt="Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</sub>
+            <sub>Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
