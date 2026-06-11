@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/nostalgia_content.png" alt="Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are."/>
+            <img src="https://imgs.xkcd.com/comics/beam_pipe.png" alt="'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.</sub>
+            <sub>'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
