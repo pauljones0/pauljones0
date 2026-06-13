@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/beam_pipe.png" alt="'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom"/>
+            <img src="https://imgs.xkcd.com/comics/plate_flip.png" alt="It's great for exfoliating your skin, bones, houses, cities, landscape, etc."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom</sub>
+            <sub>It's great for exfoliating your skin, bones, houses, cities, landscape, etc.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
