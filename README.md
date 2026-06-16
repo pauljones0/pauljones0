@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/plate_flip.png" alt="It's great for exfoliating your skin, bones, houses, cities, landscape, etc."/>
+            <img src="https://imgs.xkcd.com/comics/tethys.png" alt="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It's great for exfoliating your skin, bones, houses, cities, landscape, etc.</sub>
+            <sub>In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
