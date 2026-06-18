@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/tethys.png" alt="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale."/>
+            <img src="https://imgs.xkcd.com/comics/messi.png" alt="Commentators agree that this will probably be the last World Cup in which Messi faces serious competition."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.</sub>
+            <sub>Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
