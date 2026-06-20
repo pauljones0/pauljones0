@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/messi.png" alt="Commentators agree that this will probably be the last World Cup in which Messi faces serious competition."/>
+            <img src="https://imgs.xkcd.com/comics/side_effect.png" alt="Brace yourself--the chirp gets pretty weird."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.</sub>
+            <sub>Brace yourself--the chirp gets pretty weird.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
