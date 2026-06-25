@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/sports_commentary.png" alt="The plural of anecdote may not be data, but the singular of data is anecdote."/>
+            <img src="https://imgs.xkcd.com/comics/baryon_asymmetry.png" alt="Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The plural of anecdote may not be data, but the singular of data is anecdote.</sub>
+            <sub>Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
