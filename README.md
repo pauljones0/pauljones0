@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/baryon_asymmetry.png" alt="Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?"/>
+            <img src="https://imgs.xkcd.com/comics/720_ollie.png" alt="This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?</sub>
+            <sub>This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
