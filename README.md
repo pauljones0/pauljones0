@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/720_ollie.png" alt="This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games."/>
+            <img src="https://imgs.xkcd.com/comics/asteroid_threat.png" alt="Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.</sub>
+            <sub>Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
