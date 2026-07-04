@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/holes.png" alt="If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do."/>
+            <img src="https://imgs.xkcd.com/comics/types_of_tornado_alert.png" alt="I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.</sub>
+            <sub>I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
