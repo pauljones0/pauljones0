@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/types_of_tornado_alert.png" alt="I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger."/>
+            <img src="https://imgs.xkcd.com/comics/offside.png" alt="The arbiter gave my knight a red card for capturing with cleats up :("/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.</sub>
+            <sub>The arbiter gave my knight a red card for capturing with cleats up :(</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
