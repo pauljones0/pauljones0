@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/airport_meeting.png" alt="Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'"/>
+            <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'</sub>
+            <sub>We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
