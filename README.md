@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate."/>
+            <img src="https://imgs.xkcd.com/comics/the_princess_and_the_pea.png" alt="Once we've fully explored this space, we can start varying the number of princesses."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.</sub>
+            <sub>Once we've fully explored this space, we can start varying the number of princesses.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
