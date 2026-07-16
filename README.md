@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/the_princess_and_the_pea.png" alt="Once we've fully explored this space, we can start varying the number of princesses."/>
+            <img src="https://imgs.xkcd.com/comics/time_change.png" alt="All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Once we've fully explored this space, we can start varying the number of princesses.</sub>
+            <sub>All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
