@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/time_change.png" alt="All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse."/>
+            <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png" alt="NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730)."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</sub>
+            <sub>NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
