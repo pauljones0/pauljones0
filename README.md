@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/arthurian_connector.png" alt="Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord."/>
+            <img src="https://imgs.xkcd.com/comics/calibration_nobel.png" alt="We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.</sub>
+            <sub>We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
