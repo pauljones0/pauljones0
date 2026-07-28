@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/recursive_truckers_hitch.png" alt="As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts."/>
+            <img src="https://imgs.xkcd.com/comics/forth.png" alt="I NOTATION POLISH REVERSE ❤️"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.</sub>
+            <sub>I NOTATION POLISH REVERSE ❤️</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
