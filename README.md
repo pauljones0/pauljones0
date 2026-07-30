@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/forth.png" alt="I NOTATION POLISH REVERSE ❤️"/>
+            <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png" alt="'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I NOTATION POLISH REVERSE ❤️</sub>
+            <sub>'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
