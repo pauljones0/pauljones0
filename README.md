@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png" alt="'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible."/>
+            <img src="https://imgs.xkcd.com/comics/main_span.png" alt="Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.</sub>
+            <sub>Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
