@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/main_span.png" alt="Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?"/>
+            <img src="https://imgs.xkcd.com/comics/maze.png" alt="As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?</sub>
+            <sub>As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
