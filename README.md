@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/antiques_roadshow.png" alt="The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk."/>
+            <img src="https://imgs.xkcd.com/comics/trick_play.png" alt="I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.</sub>
+            <sub>I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
