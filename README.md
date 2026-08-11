@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/trick_play.png" alt="I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number."/>
+            <img src="https://imgs.xkcd.com/comics/size_and_lifespan.png" alt="With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.</sub>
+            <sub>With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
