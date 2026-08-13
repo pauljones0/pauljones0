@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/size_and_lifespan.png" alt="With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales."/>
+            <img src="https://imgs.xkcd.com/comics/geology_building.png" alt="The administration thinks it's weird, but the geologists say it looks normal."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.</sub>
+            <sub>The administration thinks it's weird, but the geologists say it looks normal.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
