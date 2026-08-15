@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/geology_building.png" alt="The administration thinks it's weird, but the geologists say it looks normal."/>
+            <img src="https://imgs.xkcd.com/comics/accretionary_arc.png" alt="The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The administration thinks it's weird, but the geologists say it looks normal.</sub>
+            <sub>The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
