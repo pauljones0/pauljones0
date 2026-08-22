@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/perseids.png" alt="Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good."/>
+            <img src="https://imgs.xkcd.com/comics/archery_feat.png" alt="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.</sub>
+            <sub>Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
