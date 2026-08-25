@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/archery_feat.png" alt="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me."/>
+            <img src="https://imgs.xkcd.com/comics/highway_signs.png" alt="Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.</sub>
+            <sub>Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
