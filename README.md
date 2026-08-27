@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/highway_signs.png" alt="Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1."/>
+            <img src="https://imgs.xkcd.com/comics/trade.png" alt="&quot;You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.&quot;"/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.</sub>
+            <sub>"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long."</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
