@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/trade.png" alt="&quot;You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.&quot;"/>
+            <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long."</sub>
+            <sub>It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
