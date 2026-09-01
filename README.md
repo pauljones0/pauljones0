@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget."/>
+            <img src="https://imgs.xkcd.com/comics/geology_class.png" alt="The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.</sub>
+            <sub>The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
