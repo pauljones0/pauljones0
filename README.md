@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/geology_class.png" alt="The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates."/>
+            <img src="https://imgs.xkcd.com/comics/handedness.png" alt="A 'left-handed specialist' is a physicist who studies the weak interaction."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.</sub>
+            <sub>A 'left-handed specialist' is a physicist who studies the weak interaction.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
