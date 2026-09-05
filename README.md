@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/handedness.png" alt="A 'left-handed specialist' is a physicist who studies the weak interaction."/>
+            <img src="https://imgs.xkcd.com/comics/asteroid_mission.png" alt="Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>A 'left-handed specialist' is a physicist who studies the weak interaction.</sub>
+            <sub>Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
