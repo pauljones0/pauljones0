@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/semaphore.png" alt="The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage."/>
+            <img src="https://imgs.xkcd.com/comics/fault_taunting.png" alt="One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.</sub>
+            <sub>One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
