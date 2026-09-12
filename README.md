@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/fault_taunting.png" alt="One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot."/>
+            <img src="https://imgs.xkcd.com/comics/oh_scale.png" alt="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.</sub>
+            <sub>To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
