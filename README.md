@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/oh_scale.png" alt="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail."/>
+            <img src="https://imgs.xkcd.com/comics/aerospace_flowchart.png" alt="Someday, we will find the problem that goes with this solution."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.</sub>
+            <sub>Someday, we will find the problem that goes with this solution.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
