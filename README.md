@@ -29,14 +29,14 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/aerospace_flowchart.png" alt="Someday, we will find the problem that goes with this solution."/>
+            <img src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits."/>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
   <tr>
     <td align="center">
             <!-- START_XKCD_ALT -->
-            <sub>Someday, we will find the problem that goes with this solution.</sub>
+            <sub>You should probably get back to shore before spring hits.</sub>
             <!-- END_XKCD_ALT -->
     </td>
   </tr>
