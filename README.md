@@ -36,8 +36,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🔀 [**freellmpool**](https://github.com/pauljones0/freellmpool) | Maintained local gateway for legitimate free LLM allowances, with shared quota accounting and automatic provider maintenance. | `Python` `FastAPI` |
-| 🧭 [**codecompass**](https://github.com/pauljones0/codecompass) | Multi-language structural dependency graph CLI for AI coding agents. | `Python` `CLI` `Tree-sitter` |
+| ⏳ [**claude-counter**](https://github.com/pauljones0/claude-counter) | Minimal browser extension that displays token counts, cache timers, and usage bars on Claude.ai. | `JavaScript` `Extension` |
 | 🏷️ [**rfd-discord-bot**](https://github.com/pauljones0/rfd-discord-bot) | Standalone RedFlagDeals alerts for Discord. Lightweight Go service with Docker and SQLite. | `Go` `SQLite` `Docker` |
+| 🧹 [**youtube-watch-later-cleaner**](https://github.com/pauljones0/youtube-watch-later-cleaner) | Firefox extension that batch-removes all videos from your YouTube Watch Later playlist. | `JavaScript` `Extension` |
 
 ---
 
