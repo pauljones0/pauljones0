@@ -50,15 +50,15 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-              <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits."/></a>
-              <!-- END_XKCD_IMG -->
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits."/></a>
+            <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-              <sub>You should probably get back to shore before spring hits.</sub>
-              <!-- END_XKCD_ALT -->
+            <sub>You should probably get back to shore before spring hits.</sub>
+            <!-- END_XKCD_ALT -->
       </td>
     </tr>
   </table>
