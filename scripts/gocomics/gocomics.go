@@ -1,11 +1,13 @@
 package gocomics
 
 import (
+	"bytes"
 	"encoding/json"
 	"errors"
 	"fmt"
 	"io"
 	"net/http"
+	"os/exec"
 	"time"
 
 	"golang.org/x/net/html"
@@ -40,11 +42,19 @@ func (c *Client) GetComicImageURL(comicName string, year int, month int, day int
 
 	resp, err := c.HTTPClient.Do(req)
 	if err != nil {
+		// Fallback to curl if HTTP request completely fails
+		if curlImgURL, curlErr := fetchWithCurl(comicURL); curlErr == nil && curlImgURL != "" {
+			return curlImgURL, nil
+		}
 		return "", fmt.Errorf("failed to fetch HTML from %s: %w", comicURL, err)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
+		// Fallback to curl if status is not OK (e.g. CDN challenge or 403)
+		if curlImgURL, curlErr := fetchWithCurl(comicURL); curlErr == nil && curlImgURL != "" {
+			return curlImgURL, nil
+		}
 		bodyBytes, _ := io.ReadAll(resp.Body)
 		return "", fmt.Errorf("failed to fetch HTML: status code %d for %s. Body: %s", resp.StatusCode, comicURL, string(bodyBytes))
 	}
@@ -54,6 +64,24 @@ func (c *Client) GetComicImageURL(comicName string, year int, month int, day int
 		return "", fmt.Errorf("failed to parse HTML from %s: %w", comicURL, err)
 	}
 
+	return extractImageURLFromNode(doc)
+}
+
+func fetchWithCurl(comicURL string) (string, error) {
+	cmd := exec.Command("curl", "-s", "-L",
+		"-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+		"-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+		"-H", "Accept-Language: en-US,en;q=0.5",
+		comicURL,
+	)
+	out, err := cmd.Output()
+	if err != nil || len(out) == 0 {
+		return "", fmt.Errorf("curl failed: %w", err)
+	}
+	doc, err := html.Parse(bytes.NewReader(out))
+	if err != nil {
+		return "", fmt.Errorf("failed to parse HTML from curl: %w", err)
+	}
 	return extractImageURLFromNode(doc)
 }
 

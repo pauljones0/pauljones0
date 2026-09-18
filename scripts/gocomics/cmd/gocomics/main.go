@@ -28,24 +28,35 @@ func main() {
 		os.Exit(1)
 	}
 
-	now := time.Now()
+	// GoComics publishes in US Central Time.
+	loc, err := time.LoadLocation("America/Chicago")
+	if err != nil {
+		loc = time.FixedZone("CDT", -5*3600)
+	}
+	now := time.Now().In(loc)
+
 	year := *yearFlag
+	month := *monthFlag
+	day := *dayFlag
+	customDate := (year != 0 || month != 0 || day != 0)
+
 	if year == 0 {
 		year = now.Year()
 	}
-
-	month := *monthFlag
 	if month == 0 {
 		month = int(now.Month())
 	}
-
-	day := *dayFlag
 	if day == 0 {
 		day = now.Day()
 	}
 
 	client := gocomics.NewClient()
 	imgURL, err := client.GetComicImageURL(*comicNameFlag, year, month, day)
+	if err != nil && !customDate {
+		// Fallback to yesterday in case today's comic is not yet published
+		yesterday := now.AddDate(0, 0, -1)
+		imgURL, err = client.GetComicImageURL(*comicNameFlag, yesterday.Year(), int(yesterday.Month()), yesterday.Day())
+	}
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error fetching comic image URL: %v\n", err)
 		os.Exit(1)

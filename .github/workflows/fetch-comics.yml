@@ -121,13 +121,13 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "| Component | Status | Details |" >> $GITHUB_STEP_SUMMARY
           echo "|---|---|---|" >> $GITHUB_STEP_SUMMARY
-          if [ "${{ env.XKCD_FETCH_OUTCOME }}" = "success" ]; then
-            echo "| XKCD | ✅ Success | [Comic Image](${{ env.XKCD_IMG_URL }}) |" >> $GITHUB_STEP_SUMMARY
+          if [ "$XKCD_FETCH_OUTCOME" = "success" ]; then
+            echo "| XKCD | ✅ Success | [Comic Image]($XKCD_IMG_URL) |" >> $GITHUB_STEP_SUMMARY
           else
             echo "| XKCD | ❌ Failed | Could not fetch XKCD |" >> $GITHUB_STEP_SUMMARY
           fi
-          if [ "${{ env.CH_FETCH_OUTCOME }}" = "success" ]; then
-            echo "| Calvin & Hobbes | ✅ Success | [Comic Image](${{ env.CH_URL }}) |" >> $GITHUB_STEP_SUMMARY
+          if [ "$CH_FETCH_OUTCOME" = "success" ]; then
+            echo "| Calvin & Hobbes | ✅ Success | [Comic Image]($CH_URL) |" >> $GITHUB_STEP_SUMMARY
           else
             echo "| Calvin & Hobbes | ❌ Failed | Could not fetch Calvin & Hobbes |" >> $GITHUB_STEP_SUMMARY
           fi
