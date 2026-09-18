@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
             <!-- START_XKCD_IMG -->
-            <img src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits."/>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits."/></a>
             <!-- END_XKCD_IMG -->
     </td>
   </tr>
@@ -42,6 +42,8 @@
   </tr>
 </table>
 
+---
+
 <!-- START_CALVIN_AND_HOBBES_SECTION -->
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
@@ -49,7 +51,9 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://featureassets.gocomics.com/assets/aecbc0104f75013ead4d005056a9545d" alt="Calvin and Hobbes Comic"/>
+      <a href="https://www.gocomics.com/calvinandhobbes" target="_blank">
+        <img src="https://featureassets.gocomics.com/assets/551409e057bd013fc2bd005056a9545d" alt="Calvin and Hobbes Comic"/>
+      </a>
     </td>
   </tr>
 </table>

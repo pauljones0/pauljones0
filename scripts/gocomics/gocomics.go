@@ -6,7 +6,6 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"strings"
 	"time"
 
 	"golang.org/x/net/html"
@@ -31,7 +30,15 @@ func (c *Client) GetComicImageURL(comicName string, year int, month int, day int
 	dateStr := fmt.Sprintf("%d/%02d/%02d", year, month, day)
 	comicURL := fmt.Sprintf("%s/%s/%s", c.BaseURL, comicName, dateStr)
 
-	resp, err := c.HTTPClient.Get(comicURL)
+	req, err := http.NewRequest("GET", comicURL, nil)
+	if err != nil {
+		return "", fmt.Errorf("failed to create request for %s: %w", comicURL, err)
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.5")
+
+	resp, err := c.HTTPClient.Do(req)
 	if err != nil {
 		return "", fmt.Errorf("failed to fetch HTML from %s: %w", comicURL, err)
 	}

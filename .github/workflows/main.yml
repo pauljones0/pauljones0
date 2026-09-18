@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#1E1E1E,#39D353,#26A641,#006D32,#0E4429
 
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

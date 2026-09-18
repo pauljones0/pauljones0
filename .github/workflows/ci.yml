@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/ci.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/ci.yml'
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Run Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: 'scripts/gocomics/go.mod'
+          cache-dependency-path: scripts/gocomics/go.sum
+
+      - name: Test Go scripts
+        working-directory: ./scripts/gocomics
+        run: go test -v ./...
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test Python scripts
+        run: python -m unittest discover -s scripts

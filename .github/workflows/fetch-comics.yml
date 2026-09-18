@@ -2,12 +2,14 @@ name: Fetch and Update README with Comics
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Runs daily at 5:00 AM UTC to ensure the README is updated with the latest XKCD comic
+    - cron: '0 5 * * *'  # Runs daily at 5:00 AM UTC to ensure the README is updated with the latest comics
   workflow_dispatch:    # Allows manual triggering of the workflow for on-demand updates
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest  # Uses the latest Ubuntu runner for compatibility and security
+    permissions:
+      contents: write
 
     steps:
       - name: Check out repository
@@ -23,7 +25,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.21'
+          go-version-file: 'scripts/gocomics/go.mod'
           cache-dependency-path: scripts/gocomics/go.sum
 
       - name: Fetch Calvin and Hobbes Comic URL
@@ -39,7 +41,7 @@ jobs:
             echo "Successfully fetched Calvin and Hobbes URL: $URL_OUTPUT"
             echo "CH_FETCH_OUTCOME=success" >> $GITHUB_ENV
           else
-            echo "::error::Failed to fetch Calvin and Hobbes URL. Go script exit code: $EXIT_CODE, Output: '$URL_OUTPUT'"
+            echo "::warning::Failed to fetch Calvin and Hobbes URL. Go script exit code: $EXIT_CODE, Output: '$URL_OUTPUT'"
             echo "CH_URL=" >> $GITHUB_ENV # Ensure CH_URL is defined, even if empty
             echo "CH_FETCH_OUTCOME=failure" >> $GITHUB_ENV
           fi
@@ -68,10 +70,10 @@ jobs:
               echo "Successfully fetched and parsed XKCD comic."
               XKCD_FETCH_OUTCOME="success"
             else
-              echo "::error::Failed to parse XKCD JSON or extract details. Raw JSON: '$JSON_RESPONSE'. Parsed Img: '$IMG_URL_TEMP', Parsed Alt: '$ALT_TEXT_TEMP'"
+              echo "::warning::Failed to parse XKCD JSON or extract details. Raw JSON: '$JSON_RESPONSE'. Parsed Img: '$IMG_URL_TEMP', Parsed Alt: '$ALT_TEXT_TEMP'"
             fi
           else
-            echo "::error::Failed to fetch XKCD JSON from API. Curl exit code: $CURL_EXIT_CODE. Response: '$JSON_RESPONSE'"
+            echo "::warning::Failed to fetch XKCD JSON from API. Curl exit code: $CURL_EXIT_CODE. Response: '$JSON_RESPONSE'"
           fi
           
           echo "XKCD_IMG_URL=${XKCD_IMG_URL}" >> $GITHUB_ENV
@@ -88,7 +90,9 @@ jobs:
         env:
           XKCD_IMG_URL: ${{ env.XKCD_IMG_URL }}
           XKCD_ALT_TEXT: ${{ env.XKCD_ALT_TEXT }}
+          XKCD_FETCH_OUTCOME: ${{ env.XKCD_FETCH_OUTCOME }}
           CH_URL: ${{ env.CH_URL }}
+          CH_FETCH_OUTCOME: ${{ env.CH_FETCH_OUTCOME }}
         run: python scripts/update_readme.py
 
       - name: Check for changes
@@ -110,16 +114,33 @@ jobs:
           # Pushes the commit to the remote repository
           git push
 
+      - name: Generate Summary
+        if: always()
+        run: |
+          echo "### 📰 Daily Comics Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Component | Status | Details |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|---|" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ env.XKCD_FETCH_OUTCOME }}" = "success" ]; then
+            echo "| XKCD | ✅ Success | [Comic Image](${{ env.XKCD_IMG_URL }}) |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| XKCD | ❌ Failed | Could not fetch XKCD |" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ "${{ env.CH_FETCH_OUTCOME }}" = "success" ]; then
+            echo "| Calvin & Hobbes | ✅ Success | [Comic Image](${{ env.CH_URL }}) |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| Calvin & Hobbes | ❌ Failed | Could not fetch Calvin & Hobbes |" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ "${{ steps.git-check.outputs.changes }}" = "true" ]; then
+            echo "| README.md | 📝 Updated | Changes committed and pushed |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| README.md | ⏸️ Unchanged | No comic updates needed today |" >> $GITHUB_STEP_SUMMARY
+          fi
+
       - name: Check for Errors
-        if: failure()  # Executes only if any of the previous steps have failed
+        if: failure()  # Executes only if any of the critical steps have failed
         run: |
           echo "Error occurred. Printing git status and last few commits..."
-          
-          # Outputs the current Git status to help diagnose the issue
           git status
-          
-          # Shows the last five commits for additional context
           git log -n 5
-          
-          # Exits with a non-zero status to mark the workflow as failed
           exit 1
