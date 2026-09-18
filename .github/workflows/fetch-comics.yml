@@ -23,7 +23,7 @@ jobs:
           git config user.email "action@github.com"  # Sets the Git email for commit attribution
 
       - name: Set up Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v7
         with:
           go-version-file: 'scripts/gocomics/go.mod'
           cache-dependency-path: scripts/gocomics/go.sum
