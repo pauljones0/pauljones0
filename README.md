@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/tyrannosaurus.png" alt="Many of the smaller dinosaurs seem to have largely preyed on housecats."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/stargazing_5.png" alt="The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it&#x27;s proof that sometimes things can be the same size."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Many of the smaller dinosaurs seem to have largely preyed on housecats.</sub>
+            <sub>The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
