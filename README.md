@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/voyager_instruments.png" alt="Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/slab_graveyard.png" alt="It&#x27;s ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.</sub>
+            <sub>It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
