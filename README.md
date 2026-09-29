@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/slab_graveyard.png" alt="It&#x27;s ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png" alt="&quot;I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn&#x27;t have any moons.&quot;"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!</sub>
+            <sub>"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
