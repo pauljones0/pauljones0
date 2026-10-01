@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png" alt="&quot;I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn&#x27;t have any moons.&quot;"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."</sub>
+            <sub>Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
