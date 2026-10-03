@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/accelerator_energies.png" alt="Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.</sub>
+            <sub>Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
