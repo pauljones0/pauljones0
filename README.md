@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/accelerator_energies.png" alt="Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/spectrum_allocation.png" alt="Rumor has it that they&#x27;re finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.</sub>
+            <sub>Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
