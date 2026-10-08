@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/spectrum_allocation.png" alt="Rumor has it that they&#x27;re finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/juice.png" alt="I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</sub>
+            <sub>I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
