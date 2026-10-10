@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/juice.png" alt="I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="People out here catching strays out here catching strays"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</sub>
+            <sub>People out here catching strays out here catching strays</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
