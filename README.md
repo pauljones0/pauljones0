@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="People out here catching strays out here catching strays"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png" alt="Although NASA agreed that Voyager 2 &#x27;seemed lonely&#x27; they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>People out here catching strays out here catching strays</sub>
+            <sub>Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
