@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png" alt="Although NASA agreed that Voyager 2 &#x27;seemed lonely&#x27; they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/planet_database.png" alt="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.</sub>
+            <sub>Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
