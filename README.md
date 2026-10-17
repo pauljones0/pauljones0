@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/planet_database.png" alt="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/momentum_demonstration.png" alt="&quot;I&#x27;m doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.&quot;"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</sub>
+            <sub>"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
