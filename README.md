@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/momentum_demonstration.png" alt="&quot;I&#x27;m doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.&quot;"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/fusion_device.png" alt="I don&#x27;t see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."</sub>
+            <sub>I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
