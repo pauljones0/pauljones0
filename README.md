@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/vulnerability.png" alt="Other numbers are largely unaffected, but anyone using &#x27;4&#x27; for their certificate key is urged to upgrade to &#x27;5&#x27;."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/forms_of_water.png" alt="The &#x27;light&#x27; refers to bremsstrahlung."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.</sub>
+            <sub>The 'light' refers to bremsstrahlung.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
