@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/forms_of_water.png" alt="The &#x27;light&#x27; refers to bremsstrahlung."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/siege_engine.png" alt="They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant&#x27;s Foot inside."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>The 'light' refers to bremsstrahlung.</sub>
+            <sub>They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
