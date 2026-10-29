@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/siege_engine.png" alt="They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant&#x27;s Foot inside."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/gravitational_square_wave.png" alt="Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.</sub>
+            <sub>Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
