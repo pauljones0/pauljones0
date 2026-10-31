@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/gravitational_square_wave.png" alt="Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/earth_sized_planets.png" alt="It probably has an icy mantle over the real silicate geology, but I&#x27;m hoping something weird happened to burn off most of the water like with Io."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.</sub>
+            <sub>It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
