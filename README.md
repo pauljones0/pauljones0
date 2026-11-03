@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/earth_sized_planets.png" alt="It probably has an icy mantle over the real silicate geology, but I&#x27;m hoping something weird happened to burn off most of the water like with Io."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/elevators.png" alt="&quot;A reusable elevator would also be great because we&#x27;d save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.&quot;"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.</sub>
+            <sub>"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
