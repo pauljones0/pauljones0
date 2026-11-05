@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/elevators.png" alt="&quot;A reusable elevator would also be great because we&#x27;d save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.&quot;"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/house_majority.png" alt="For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."</sub>
+            <sub>For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
