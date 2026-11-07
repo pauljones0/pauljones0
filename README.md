@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/house_majority.png" alt="For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/simulation.png" alt="No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.</sub>
+            <sub>No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
