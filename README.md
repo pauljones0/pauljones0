@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/simulation.png" alt="No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/dragonfly.png" alt="I&#x27;m excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, &#x27;Titan&#x27;s surface&#x27; is right up there at the top with &#x27;Jupiter&#x27;s atmosphere.&#x27;"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.</sub>
+            <sub>I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
