@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/dragonfly.png" alt="I&#x27;m excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, &#x27;Titan&#x27;s surface&#x27; is right up there at the top with &#x27;Jupiter&#x27;s atmosphere.&#x27;"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/meteor_fear.png" alt="Don&#x27;t worry--even though small and potentially deadly meteors hit the ground all the time, statistically you&#x27;re actually much more likely to die from a rare large one that destroys your whole area!"/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'</sub>
+            <sub>Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
