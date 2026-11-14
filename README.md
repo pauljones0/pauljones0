@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/meteor_fear.png" alt="Don&#x27;t worry--even though small and potentially deadly meteors hit the ground all the time, statistically you&#x27;re actually much more likely to die from a rare large one that destroys your whole area!"/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/ultimate_movie_series.png" alt="Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!</sub>
+            <sub>Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
