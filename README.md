@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/ultimate_movie_series.png" alt="Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/light_day.png" alt="After 49 years, NASA is considering shutting down Voyager 1&#x27;s multiplayer gaming server; the 172800000ms ping has just become too annoying for players."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.</sub>
+            <sub>After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
