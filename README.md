@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/plate_maintenance.png" alt="First we&#x27;re going to have to relieve the built-up strain, but we&#x27;ll do it one hemisphere at a time, so you&#x27;ll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/ivory_tower_elites.png" alt="These ivory tower elites are flouting both CITES and municipal building codes."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.</sub>
+            <sub>These ivory tower elites are flouting both CITES and municipal building codes.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
