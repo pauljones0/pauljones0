@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/ivory_tower_elites.png" alt="These ivory tower elites are flouting both CITES and municipal building codes."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/cesium_atom.png" alt="We&#x27;ve all chipped in to buy the retiring committee chair a gold-plated cesium atom."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>These ivory tower elites are flouting both CITES and municipal building codes.</sub>
+            <sub>We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
