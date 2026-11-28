@@ -50,14 +50,14 @@
     <tr>
       <td align="center">
               <!-- START_XKCD_IMG -->
-            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/cesium_atom.png" alt="We&#x27;ve all chipped in to buy the retiring committee chair a gold-plated cesium atom."/></a>
+            <a href="https://xkcd.com/" target="_blank"><img src="https://imgs.xkcd.com/comics/tiny_squirrels.png" alt="It&#x27;s actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it&#x27;s hard to get the equations to cancel out and produce the observed small number."/></a>
             <!-- END_XKCD_IMG -->
       </td>
     </tr>
     <tr>
       <td align="center">
               <!-- START_XKCD_ALT -->
-            <sub>We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.</sub>
+            <sub>It's actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it's hard to get the equations to cancel out and produce the observed small number.</sub>
             <!-- END_XKCD_ALT -->
       </td>
     </tr>
